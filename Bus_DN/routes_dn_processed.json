@@ -1,0 +1,6753 @@
+[
+  {
+    "osm_id": 11506628,
+    "ref": "05",
+    "name": "Chung cư Hòa Hiệp Nam - Công viên Biển Đông",
+    "from": "Chung cư Hòa Hiệp Nam",
+    "to": "Công viên Biển Đông",
+    "operator": "Công ty Cổ phần Xe khách Phương Trang - FUTA Bus Lines",
+    "colour": "",
+    "charge": "8000 VND",
+    "interval": "00:15-00:30",
+    "stops_count": 34,
+    "stops": [
+      {
+        "id": 11881093508,
+        "lat": 16.0830776,
+        "lon": 108.1457202,
+        "name": "Cổng KCN Hòa Khánh",
+        "role": "platform"
+      },
+      {
+        "id": 11881093509,
+        "lat": 16.0795826,
+        "lon": 108.147096,
+        "name": "Bệnh viện Tâm thần Đà Nẵng",
+        "role": "platform"
+      },
+      {
+        "id": 11881093510,
+        "lat": 16.0763059,
+        "lon": 108.1484408,
+        "name": "Cao đẳng Kinh tế - Kế hoạch Đà Nẵng",
+        "role": "platform"
+      },
+      {
+        "id": 11881093512,
+        "lat": 16.0726662,
+        "lon": 108.1499258,
+        "name": "Trường Trung học cơ sở Nguyễn Lương Bằng",
+        "role": "platform"
+      },
+      {
+        "id": 11881093513,
+        "lat": 16.0714086,
+        "lon": 108.1504259,
+        "name": "755 Tôn Đức Thắng",
+        "role": "platform"
+      },
+      {
+        "id": 11881093514,
+        "lat": 16.0703306,
+        "lon": 108.1538205,
+        "name": "46 Ngô Thì Nhậm",
+        "role": "platform"
+      },
+      {
+        "id": 11881093515,
+        "lat": 16.0732357,
+        "lon": 108.1572046,
+        "name": "Đối diện 318 Hồ Tùng Mậu",
+        "role": "platform"
+      },
+      {
+        "id": 11881093516,
+        "lat": 16.0746965,
+        "lon": 108.1582919,
+        "name": "Tường rào Công an Hồ Tùng Mậu",
+        "role": "platform"
+      },
+      {
+        "id": 11881093517,
+        "lat": 16.0714074,
+        "lon": 108.1641741,
+        "name": "Bệnh viện Ung bướu Đà Nẵng",
+        "role": "platform"
+      },
+      {
+        "id": 11881093518,
+        "lat": 16.0731692,
+        "lon": 108.1665809,
+        "name": "Đối diện 92 Phùng Hưng",
+        "role": "platform"
+      },
+      {
+        "id": 11881093519,
+        "lat": 16.0748446,
+        "lon": 108.1691673,
+        "name": "Đối diện 200 Kinh Dương Vương",
+        "role": "platform"
+      },
+      {
+        "id": 11881093520,
+        "lat": 16.0725203,
+        "lon": 108.1727261,
+        "name": "35 Kinh Dương Vương",
+        "role": "platform"
+      },
+      {
+        "id": 11881093521,
+        "lat": 16.0744931,
+        "lon": 108.1753799,
+        "name": "59 Lý Thái Tông",
+        "role": "platform"
+      },
+      {
+        "id": 11881093522,
+        "lat": 16.0740899,
+        "lon": 108.1767512,
+        "name": "Bệnh viện Da liễu Đà Nẵng",
+        "role": "platform"
+      },
+      {
+        "id": 11881093523,
+        "lat": 16.0718558,
+        "lon": 108.1787575,
+        "name": "Cao đẳng Thương mại",
+        "role": "platform"
+      },
+      {
+        "id": 11881093524,
+        "lat": 16.0705977,
+        "lon": 108.1800115,
+        "name": "Trường Đại học Thể dục Thể thao Đà Nẵng",
+        "role": "platform"
+      },
+      {
+        "id": 11881093525,
+        "lat": 16.0684272,
+        "lon": 108.183282,
+        "name": "Trường Trung học phổ thông Thái Phiên",
+        "role": "platform"
+      },
+      {
+        "id": 11881093526,
+        "lat": 16.0713136,
+        "lon": 108.1880375,
+        "name": "583 Trần Cao Vân",
+        "role": "platform"
+      },
+      {
+        "id": 11881093527,
+        "lat": 16.0711825,
+        "lon": 108.1923835,
+        "name": "UBND Phường Xuân Hà",
+        "role": "platform"
+      },
+      {
+        "id": 11881093528,
+        "lat": 16.0710554,
+        "lon": 108.1984144,
+        "name": "301 Trần Cao Vân",
+        "role": "platform"
+      },
+      {
+        "id": 11881093529,
+        "lat": 16.0711214,
+        "lon": 108.2020583,
+        "name": "189 Trần Cao Vân",
+        "role": "platform"
+      },
+      {
+        "id": 11881093530,
+        "lat": 16.0723678,
+        "lon": 108.208244,
+        "name": "Đối diện 156 Trần Cao Vân",
+        "role": "platform"
+      },
+      {
+        "id": 11881093531,
+        "lat": 16.0733765,
+        "lon": 108.2132412,
+        "name": "Công viên Quang Trung",
+        "role": "platform"
+      },
+      {
+        "id": 11881093532,
+        "lat": 16.0741076,
+        "lon": 108.2169258,
+        "name": "Bệnh viện Chỉnh hình và Phục hồi Chức năng Đà Nẵng",
+        "role": "platform"
+      },
+      {
+        "id": 4949016324,
+        "lat": 16.0742501,
+        "lon": 108.219937,
+        "name": "128 Lê Lợi",
+        "role": "platform"
+      },
+      {
+        "id": 11881093533,
+        "lat": 16.0721702,
+        "lon": 108.220237,
+        "name": "154 Lê Lợi",
+        "role": "platform"
+      },
+      {
+        "id": 11881093534,
+        "lat": 16.0715839,
+        "lon": 108.2229683,
+        "name": "Cầu Sông Hàn - 5 Lê Duẩn",
+        "role": "platform"
+      },
+      {
+        "id": 11881093535,
+        "lat": 16.0723728,
+        "lon": 108.2320646,
+        "name": "Bãi xe Phú Duy",
+        "role": "platform"
+      },
+      {
+        "id": 11881093536,
+        "lat": 16.070927,
+        "lon": 108.235588,
+        "name": "Ngân hàng Techcombank - 124 Phạm Văn Đồng",
+        "role": "platform"
+      },
+      {
+        "id": 11881093537,
+        "lat": 16.0699749,
+        "lon": 108.2405731,
+        "name": "Vòng xuyến Phạm Văn Đồng - Chính Hữu",
+        "role": "platform"
+      },
+      {
+        "id": 11894149759,
+        "lat": 16.1049853,
+        "lon": 108.1328356,
+        "name": "817 Nguyễn Lương Bằng",
+        "role": "platform"
+      },
+      {
+        "id": 13031658287,
+        "lat": 16.1032984,
+        "lon": 108.1316839,
+        "name": "",
+        "role": "platform"
+      },
+      {
+        "id": 13031658288,
+        "lat": 16.1003073,
+        "lon": 108.1288235,
+        "name": "",
+        "role": "platform"
+      },
+      {
+        "id": 13031658289,
+        "lat": 16.0982518,
+        "lon": 108.1347375,
+        "name": "",
+        "role": "platform"
+      }
+    ]
+  },
+  {
+    "osm_id": 17561166,
+    "ref": "05",
+    "name": "Công viên Biển Đông - Chung cư Hòa Hiệp Nam",
+    "from": "Công viên Biển Đông",
+    "to": "Chung cư Hòa Hiệp Nam",
+    "operator": "Công ty Cổ phần Xe khách Phương Trang - FUTA Bus Lines",
+    "colour": "",
+    "charge": "8000 VND",
+    "interval": "00:10-00:30",
+    "stops_count": 33,
+    "stops": [
+      {
+        "id": 11559036070,
+        "lat": 16.0703427,
+        "lon": 108.2407452,
+        "name": "Vòng xuyến Phạm Văn Đồng - Chính Hữu",
+        "role": "platform"
+      },
+      {
+        "id": 11558491072,
+        "lat": 16.0711365,
+        "lon": 108.2359262,
+        "name": "Đối diện 124 Phạm Văn Đồng",
+        "role": "platform"
+      },
+      {
+        "id": 11881093541,
+        "lat": 16.0728569,
+        "lon": 108.2318407,
+        "name": "Đối diện Bãi xe Phú Duy",
+        "role": "platform"
+      },
+      {
+        "id": 11881093542,
+        "lat": 16.0716732,
+        "lon": 108.2222865,
+        "name": "14 Lê Duẩn",
+        "role": "platform"
+      },
+      {
+        "id": 11597370771,
+        "lat": 16.0733049,
+        "lon": 108.2208807,
+        "name": "Chùa Tân Ninh (Đối diện 76 Nguyễn Chí Thanh)",
+        "role": "platform"
+      },
+      {
+        "id": 11881093543,
+        "lat": 16.0740693,
+        "lon": 108.216007,
+        "name": "Trường Trung học cơ sở Nguyễn Huệ",
+        "role": "platform"
+      },
+      {
+        "id": 11881093544,
+        "lat": 16.0733016,
+        "lon": 108.2122232,
+        "name": "Chi cục Kiểm lâm Thành phố Đà Nẵng",
+        "role": "platform"
+      },
+      {
+        "id": 11881093545,
+        "lat": 16.0724185,
+        "lon": 108.2080192,
+        "name": "Trường Trung học cơ sở Hoàng Diệu",
+        "role": "platform"
+      },
+      {
+        "id": 11881093546,
+        "lat": 16.0712456,
+        "lon": 108.2022423,
+        "name": "314 Trần Cao Vân",
+        "role": "platform"
+      },
+      {
+        "id": 11881093547,
+        "lat": 16.0711673,
+        "lon": 108.1990103,
+        "name": "398 Trần Cao Vân",
+        "role": "platform"
+      },
+      {
+        "id": 11881093548,
+        "lat": 16.0712866,
+        "lon": 108.1932265,
+        "name": "570 Trần Cao Vân",
+        "role": "platform"
+      },
+      {
+        "id": 11881093549,
+        "lat": 16.0713518,
+        "lon": 108.1889231,
+        "name": "674 Trần Cao Vân",
+        "role": "platform"
+      },
+      {
+        "id": 11881093550,
+        "lat": 16.0704471,
+        "lon": 108.1803483,
+        "name": "Trường Đại học Thể dục Thể thao Đà Nẵng",
+        "role": "platform"
+      },
+      {
+        "id": 11881093551,
+        "lat": 16.0744775,
+        "lon": 108.1765721,
+        "name": "154 Dũng Sĩ Thanh Khê",
+        "role": "platform"
+      },
+      {
+        "id": 11881093552,
+        "lat": 16.0745699,
+        "lon": 108.1752781,
+        "name": "58 Lý Thái Tông",
+        "role": "platform"
+      },
+      {
+        "id": 11881093553,
+        "lat": 16.0725231,
+        "lon": 108.1730328,
+        "name": "26 Kinh Dương Vương",
+        "role": "platform"
+      },
+      {
+        "id": 11881093554,
+        "lat": 16.075026,
+        "lon": 108.1691781,
+        "name": "Đối diện Chung cư Thanh Lộc Đán",
+        "role": "platform"
+      },
+      {
+        "id": 11881093555,
+        "lat": 16.0736404,
+        "lon": 108.1667859,
+        "name": "76 Phùng Hưng",
+        "role": "platform"
+      },
+      {
+        "id": 11881093556,
+        "lat": 16.0716629,
+        "lon": 108.1642362,
+        "name": "Đối diện Bệnh viện Ung bướu Đà Nẵng",
+        "role": "platform"
+      },
+      {
+        "id": 11881093557,
+        "lat": 16.0739248,
+        "lon": 108.157585,
+        "name": "Bảo hiểm xã hội Quận Liên Chiểu",
+        "role": "platform"
+      },
+      {
+        "id": 11881093558,
+        "lat": 16.0720575,
+        "lon": 108.1562147,
+        "name": "Ngân hàng chính sách xã hội Đà Nẵng (PGD Quận Liên Chiểu)",
+        "role": "platform"
+      },
+      {
+        "id": 11881093559,
+        "lat": 16.0707934,
+        "lon": 108.154423,
+        "name": "52 Ngô Thì Nhậm",
+        "role": "platform"
+      },
+      {
+        "id": 11881093560,
+        "lat": 16.0712067,
+        "lon": 108.1507993,
+        "name": "900 Tôn Đức Thắng",
+        "role": "platform"
+      },
+      {
+        "id": 11881093561,
+        "lat": 16.0726985,
+        "lon": 108.1502009,
+        "name": "34 Nguyễn Lương Bằng",
+        "role": "platform"
+      },
+      {
+        "id": 11881093562,
+        "lat": 16.076882,
+        "lon": 108.1484689,
+        "name": "Bưu điện Hòa Khánh",
+        "role": "platform"
+      },
+      {
+        "id": 11881093563,
+        "lat": 16.0807158,
+        "lon": 108.1469073,
+        "name": "234 Nguyễn Lương Bằng",
+        "role": "platform"
+      },
+      {
+        "id": 11881093564,
+        "lat": 16.0830648,
+        "lon": 108.1459428,
+        "name": "Cổng KCN Hòa Khánh",
+        "role": "platform"
+      },
+      {
+        "id": 11881093565,
+        "lat": 16.0864064,
+        "lon": 108.1445562,
+        "name": "380 Nguyễn Lương Bằng",
+        "role": "platform"
+      },
+      {
+        "id": 13031658284,
+        "lat": 16.0683598,
+        "lon": 108.1830561,
+        "name": "856 Trần Cao Vân",
+        "role": "platform"
+      },
+      {
+        "id": 13031658290,
+        "lat": 16.0984726,
+        "lon": 108.1347954,
+        "name": "",
+        "role": "platform"
+      },
+      {
+        "id": 13031658291,
+        "lat": 16.1002546,
+        "lon": 108.1289016,
+        "name": "",
+        "role": "platform"
+      },
+      {
+        "id": 13031658292,
+        "lat": 16.1031864,
+        "lon": 108.1317167,
+        "name": "",
+        "role": "platform"
+      },
+      {
+        "id": 11894149747,
+        "lat": 16.1053072,
+        "lon": 108.1329185,
+        "name": "636 Nguyễn Lương Bằng",
+        "role": "platform"
+      }
+    ]
+  },
+  {
+    "osm_id": 17561604,
+    "ref": "07",
+    "name": "Xuân Diệu - Hòa Phước",
+    "from": "Xuân Diệu",
+    "to": "Hòa Phước",
+    "operator": "Công ty Cổ phần Xe khách Phương Trang - FUTA Bus Lines",
+    "colour": "",
+    "charge": "8000 VND",
+    "interval": "00:10-00:30",
+    "stops_count": 36,
+    "stops": [
+      {
+        "id": 4914148721,
+        "lat": 16.0847125,
+        "lon": 108.2206707,
+        "name": "49 Đường 3/2",
+        "role": "platform"
+      },
+      {
+        "id": 11881362046,
+        "lat": 16.0758341,
+        "lon": 108.2233549,
+        "name": "Đối diện sân tennis đường Bạch Đằng",
+        "role": "platform"
+      },
+      {
+        "id": 11881362047,
+        "lat": 16.0751475,
+        "lon": 108.2214661,
+        "name": "28 Quang Trung",
+        "role": "platform"
+      },
+      {
+        "id": 4949016324,
+        "lat": 16.0742501,
+        "lon": 108.219937,
+        "name": "128 Lê Lợi",
+        "role": "platform"
+      },
+      {
+        "id": 11881093533,
+        "lat": 16.0721702,
+        "lon": 108.220237,
+        "name": "154 Lê Lợi",
+        "role": "platform"
+      },
+      {
+        "id": 11881362048,
+        "lat": 16.0708847,
+        "lon": 108.2204437,
+        "name": "Đối diện 189 Lê Lợi",
+        "role": "platform"
+      },
+      {
+        "id": 11881362049,
+        "lat": 16.0690081,
+        "lon": 108.220296,
+        "name": "Đối diện Nhà hát Trưng Vương",
+        "role": "platform"
+      },
+      {
+        "id": 5317505621,
+        "lat": 16.065598,
+        "lon": 108.2200171,
+        "name": "92 Phan Châu Trinh",
+        "role": "platform"
+      },
+      {
+        "id": 11881362050,
+        "lat": 16.0621441,
+        "lon": 108.219691,
+        "name": "174-176 Phan Châu Trinh",
+        "role": "platform"
+      },
+      {
+        "id": 11881362051,
+        "lat": 16.060898,
+        "lon": 108.2178218,
+        "name": "Chùa Phước Ninh",
+        "role": "platform"
+      },
+      {
+        "id": 11881362052,
+        "lat": 16.0582001,
+        "lon": 108.2170369,
+        "name": "310 Hoàng Diệu",
+        "role": "platform"
+      },
+      {
+        "id": 11881362053,
+        "lat": 16.0533059,
+        "lon": 108.2186547,
+        "name": "233 Trưng Nữ Vương",
+        "role": "platform"
+      },
+      {
+        "id": 11881362054,
+        "lat": 16.0528905,
+        "lon": 108.2202706,
+        "name": "60 Núi Thành",
+        "role": "platform"
+      },
+      {
+        "id": 11881362055,
+        "lat": 16.0477057,
+        "lon": 108.2208365,
+        "name": "Đối diện 161 Núi Thành (Đối diện Trường Trung học cơ sở Tây Sơn)",
+        "role": "platform"
+      },
+      {
+        "id": 11881362056,
+        "lat": 16.042545,
+        "lon": 108.2174855,
+        "name": "62 Lê Thanh Nghị",
+        "role": "platform"
+      },
+      {
+        "id": 11881362057,
+        "lat": 16.0371957,
+        "lon": 108.2180929,
+        "name": "Đối diện 213 Lê Thanh Nghị",
+        "role": "platform"
+      },
+      {
+        "id": 11881362058,
+        "lat": 16.0304593,
+        "lon": 108.2188511,
+        "name": "Đối diện Chợ đầu mối Hòa Cường",
+        "role": "platform"
+      },
+      {
+        "id": 11881362059,
+        "lat": 16.0258161,
+        "lon": 108.2199099,
+        "name": "Đối diện Siêu thị Mega Market Đà Nẵng",
+        "role": "platform"
+      },
+      {
+        "id": 11881362060,
+        "lat": 16.022998,
+        "lon": 108.2147092,
+        "name": "52-54 Cách Mạng Tháng 8 (Gần Bệnh viện Tâm Trí Đà Nẵng)",
+        "role": "platform"
+      },
+      {
+        "id": 11881362061,
+        "lat": 16.010278,
+        "lon": 108.2174334,
+        "name": "Chân cầu Nguyễn Tri Phương (6 Võ Chí Công)",
+        "role": "platform"
+      },
+      {
+        "id": 11881362062,
+        "lat": 16.0074784,
+        "lon": 108.2187806,
+        "name": "Đối diện 593 Đường 29/3",
+        "role": "platform"
+      },
+      {
+        "id": 11881362063,
+        "lat": 16.0040859,
+        "lon": 108.2205697,
+        "name": "Đối diện 213-215 Võ An Ninh",
+        "role": "platform"
+      },
+      {
+        "id": 11881362064,
+        "lat": 16.0024575,
+        "lon": 108.2220953,
+        "name": "18-20 Mẹ Thứ",
+        "role": "platform"
+      },
+      {
+        "id": 11881362065,
+        "lat": 16.0000794,
+        "lon": 108.2169335,
+        "name": "224-226 Mẹ Thứ (Trường Mầm non Búp Sen Hồng)",
+        "role": "platform"
+      },
+      {
+        "id": 11881362066,
+        "lat": 15.9999456,
+        "lon": 108.2140421,
+        "name": "290-292 Mẹ Thứ",
+        "role": "platform"
+      },
+      {
+        "id": 11881362067,
+        "lat": 15.999727,
+        "lon": 108.2097539,
+        "name": "388-390 Mẹ Thứ (Đối diện Hội truyền giáo Cơ đốc Việt Nam)",
+        "role": "platform"
+      },
+      {
+        "id": 11881362068,
+        "lat": 15.9993076,
+        "lon": 108.2070715,
+        "name": "182 Phạm Hùng",
+        "role": "platform"
+      },
+      {
+        "id": 11881377370,
+        "lat": 15.9914337,
+        "lon": 108.207489,
+        "name": "340 Phạm Hùng",
+        "role": "platform"
+      },
+      {
+        "id": 11881377371,
+        "lat": 15.9855369,
+        "lon": 108.2078268,
+        "name": "548 Phạm Hùng",
+        "role": "platform"
+      },
+      {
+        "id": 11881377372,
+        "lat": 15.981615,
+        "lon": 108.2080214,
+        "name": "A3-7 Khu đô thị Nam Cẩm Lệ (Đối diện 461 Phạm Hùng)",
+        "role": "platform"
+      },
+      {
+        "id": 11881377373,
+        "lat": 15.9768177,
+        "lon": 108.2082319,
+        "name": "Bưu điện Miếu Bông",
+        "role": "platform"
+      },
+      {
+        "id": 11881377374,
+        "lat": 15.9684735,
+        "lon": 108.2100412,
+        "name": "Công ty Isuzu",
+        "role": "platform"
+      },
+      {
+        "id": 6466087786,
+        "lat": 15.9660382,
+        "lon": 108.2111809,
+        "name": "Đại lý ô tô Hồng Sơn",
+        "role": "platform"
+      },
+      {
+        "id": 11881377375,
+        "lat": 15.9574884,
+        "lon": 108.2152845,
+        "name": "Cửa hàng xăng dầu Petrolimex số 12",
+        "role": "platform"
+      },
+      {
+        "id": 11881377376,
+        "lat": 15.9521676,
+        "lon": 108.2178933,
+        "name": "Trạm Cảnh sát giao thông Cửa Ô, Hòa Phước",
+        "role": "platform"
+      },
+      {
+        "id": 11881362045,
+        "lat": 16.0812103,
+        "lon": 108.2226706,
+        "name": "6 Trần Phú",
+        "role": "platform"
+      }
+    ]
+  },
+  {
+    "osm_id": 17561605,
+    "ref": "07",
+    "name": "Hòa Phước - Xuân Diệu",
+    "from": "Hòa Phước",
+    "to": "Xuân Diệu",
+    "operator": "Công ty Cổ phần Xe khách Phương Trang - FUTA Bus Lines",
+    "colour": "",
+    "charge": "8000 VND",
+    "interval": "00:10-00:30",
+    "stops_count": 37,
+    "stops": [
+      {
+        "id": 11881377380,
+        "lat": 15.9532062,
+        "lon": 108.2176688,
+        "name": "Bãi đỗ xe kỹ thuật (sát Trạm kiểm dịch Hòa Phước)",
+        "role": "platform"
+      },
+      {
+        "id": 11881377381,
+        "lat": 15.9588657,
+        "lon": 108.2149075,
+        "name": "UBND Xã Hòa Phước",
+        "role": "platform"
+      },
+      {
+        "id": 11881377382,
+        "lat": 15.9639732,
+        "lon": 108.2124324,
+        "name": "Kho đá Đông Ấn Đà Nẵng (Đối diện Chợ Hòa Phước)",
+        "role": "platform"
+      },
+      {
+        "id": 11881377383,
+        "lat": 15.9672423,
+        "lon": 108.2108465,
+        "name": "Bến xe Phía Nam",
+        "role": "platform"
+      },
+      {
+        "id": 11881377384,
+        "lat": 15.9815882,
+        "lon": 108.2081985,
+        "name": "467 Phạm Hùng",
+        "role": "platform"
+      },
+      {
+        "id": 11881377385,
+        "lat": 15.9856037,
+        "lon": 108.2079968,
+        "name": "333 Phạm Hùng",
+        "role": "platform"
+      },
+      {
+        "id": 11881377386,
+        "lat": 15.9916974,
+        "lon": 108.2076512,
+        "name": "167 Phạm Hùng",
+        "role": "platform"
+      },
+      {
+        "id": 11881377387,
+        "lat": 15.9965334,
+        "lon": 108.2073941,
+        "name": "Đối diện trạm xe buýt Phạm Hùng",
+        "role": "platform"
+      },
+      {
+        "id": 11881377388,
+        "lat": 15.9985264,
+        "lon": 108.2072692,
+        "name": "121 Phạm Hùng",
+        "role": "platform"
+      },
+      {
+        "id": 11881377389,
+        "lat": 15.9996134,
+        "lon": 108.2099323,
+        "name": "Hội truyền giáo Cơ đốc Việt Nam",
+        "role": "platform"
+      },
+      {
+        "id": 11881377390,
+        "lat": 15.9997979,
+        "lon": 108.2136908,
+        "name": "331-333 Mẹ Thứ",
+        "role": "platform"
+      },
+      {
+        "id": 11881377391,
+        "lat": 16.0000012,
+        "lon": 108.2174062,
+        "name": "235-237 Mẹ Thứ",
+        "role": "platform"
+      },
+      {
+        "id": 11881377392,
+        "lat": 16.0020483,
+        "lon": 108.2219014,
+        "name": "43-45 Mẹ Thứ",
+        "role": "platform"
+      },
+      {
+        "id": 11881377393,
+        "lat": 16.0041696,
+        "lon": 108.2206381,
+        "name": "213-215 Võ An Ninh",
+        "role": "platform"
+      },
+      {
+        "id": 11881377394,
+        "lat": 16.0071836,
+        "lon": 108.2190281,
+        "name": "593 Đường 29/3",
+        "role": "platform"
+      },
+      {
+        "id": 11881377395,
+        "lat": 16.0101937,
+        "lon": 108.217863,
+        "name": "Chân cầu Nguyễn Tri Phương (19 Võ Chí Công)",
+        "role": "platform"
+      },
+      {
+        "id": 11881377396,
+        "lat": 16.0227285,
+        "lon": 108.214682,
+        "name": "23-25 Cách Mạng Tháng 8 (Đối diện Bệnh viện Tâm Trí Đà Nẵng)",
+        "role": "platform"
+      },
+      {
+        "id": 11881377397,
+        "lat": 16.0255414,
+        "lon": 108.2199075,
+        "name": "Siêu thị Mega Market Đà Nẵng",
+        "role": "platform"
+      },
+      {
+        "id": 11881377398,
+        "lat": 16.0312,
+        "lon": 108.2189366,
+        "name": "Chợ đầu mối Hòa Cường",
+        "role": "platform"
+      },
+      {
+        "id": 11881377399,
+        "lat": 16.0373436,
+        "lon": 108.2182218,
+        "name": "221 Lê Thanh Nghị",
+        "role": "platform"
+      },
+      {
+        "id": 11881377400,
+        "lat": 16.042624,
+        "lon": 108.2176291,
+        "name": "39-41 Lê Thanh Nghị",
+        "role": "platform"
+      },
+      {
+        "id": 11881377401,
+        "lat": 16.0480761,
+        "lon": 108.2209665,
+        "name": "149 Núi Thành (Trường Trung học cơ sở Tây Sơn)",
+        "role": "platform"
+      },
+      {
+        "id": 11881377402,
+        "lat": 16.0531225,
+        "lon": 108.2203645,
+        "name": "21 Núi Thành",
+        "role": "platform"
+      },
+      {
+        "id": 11881377403,
+        "lat": 16.0529812,
+        "lon": 108.2181405,
+        "name": "298 Trưng Nữ Vương",
+        "role": "platform"
+      },
+      {
+        "id": 11881377404,
+        "lat": 16.0565346,
+        "lon": 108.217175,
+        "name": "315 Hoàng Diệu",
+        "role": "platform"
+      },
+      {
+        "id": 11881377405,
+        "lat": 16.0598075,
+        "lon": 108.2170859,
+        "name": "UBND Phường Nam Dương",
+        "role": "platform"
+      },
+      {
+        "id": 11881377406,
+        "lat": 16.0626774,
+        "lon": 108.2178511,
+        "name": "131 Hoàng Diệu",
+        "role": "platform"
+      },
+      {
+        "id": 11881377407,
+        "lat": 16.0668104,
+        "lon": 108.2209625,
+        "name": "241 Nguyễn Chí Thanh",
+        "role": "platform"
+      },
+      {
+        "id": 11597369769,
+        "lat": 16.0693059,
+        "lon": 108.2211487,
+        "name": "Đối diện Nhà hát Trưng Vương",
+        "role": "platform"
+      },
+      {
+        "id": 11881377408,
+        "lat": 16.0709577,
+        "lon": 108.2212237,
+        "name": "175 Nguyễn Chí Thanh",
+        "role": "platform"
+      },
+      {
+        "id": 11597370771,
+        "lat": 16.0733049,
+        "lon": 108.2208807,
+        "name": "Chùa Tân Ninh (Đối diện 76 Nguyễn Chí Thanh)",
+        "role": "platform"
+      },
+      {
+        "id": 11881377409,
+        "lat": 16.0751518,
+        "lon": 108.2220984,
+        "name": "15 Quang Trung",
+        "role": "platform"
+      },
+      {
+        "id": 6270906592,
+        "lat": 16.0763213,
+        "lon": 108.2242469,
+        "name": "Trung tâm hành chính Thành phố Đà Nẵng",
+        "role": "platform"
+      },
+      {
+        "id": 11881377410,
+        "lat": 16.0796381,
+        "lon": 108.2238615,
+        "name": "Đối diện 20 Bạch Đằng",
+        "role": "platform"
+      },
+      {
+        "id": 4564834190,
+        "lat": 16.084216,
+        "lon": 108.2214775,
+        "name": "24 Đường 3/2",
+        "role": "platform"
+      },
+      {
+        "id": 11894149729,
+        "lat": 15.9768496,
+        "lon": 108.2084351,
+        "name": "Bưu điện Miếu Bông",
+        "role": "platform"
+      },
+      {
+        "id": 11898042442,
+        "lat": 15.9479215,
+        "lon": 108.2202227,
+        "name": "Ngã ba Tứ Câu",
+        "role": "platform"
+      }
+    ]
+  },
+  {
+    "osm_id": 17564087,
+    "ref": "08",
+    "name": "Vũng Thùng - Bến xe Phạm Hùng",
+    "from": "Vũng Thùng",
+    "to": "Bến xe Phạm Hùng",
+    "operator": "Công ty Cổ phần Xe khách Phương Trang - FUTA Bus Lines",
+    "colour": "",
+    "charge": "8000 VND",
+    "interval": "00:10-00:30",
+    "stops_count": 27,
+    "stops": [
+      {
+        "id": 11882946574,
+        "lat": 16.0852928,
+        "lon": 108.2361109,
+        "name": "32 Trần Thánh Tông",
+        "role": "platform"
+      },
+      {
+        "id": 11882946575,
+        "lat": 16.0836226,
+        "lon": 108.2373801,
+        "name": "574 Ngô Quyền",
+        "role": "platform"
+      },
+      {
+        "id": 11882946576,
+        "lat": 16.0812522,
+        "lon": 108.2350882,
+        "name": "694 Ngô Quyền",
+        "role": "platform"
+      },
+      {
+        "id": 11882946577,
+        "lat": 16.0773265,
+        "lon": 108.2313804,
+        "name": "864 Ngô Quyền",
+        "role": "platform"
+      },
+      {
+        "id": 6270769686,
+        "lat": 16.0746222,
+        "lon": 108.2303924,
+        "name": "Trường Mầm non ABC",
+        "role": "platform"
+      },
+      {
+        "id": 6270793285,
+        "lat": 16.0699473,
+        "lon": 108.2314012,
+        "name": "Gần Vincom Plaza Ngô Quyền",
+        "role": "platform"
+      },
+      {
+        "id": 6270793385,
+        "lat": 16.0662395,
+        "lon": 108.2327353,
+        "name": "926 Ngô Quyền - Công ty Điên lực Sơn Trà",
+        "role": "platform"
+      },
+      {
+        "id": 11882946578,
+        "lat": 16.0627326,
+        "lon": 108.233791,
+        "name": "1042 Ngô Quyền",
+        "role": "platform"
+      },
+      {
+        "id": 6270793386,
+        "lat": 16.0581456,
+        "lon": 108.2351737,
+        "name": "Trung tâm Y tế Quận Sơn Trà",
+        "role": "platform"
+      },
+      {
+        "id": 6270793585,
+        "lat": 16.0543244,
+        "lon": 108.2363351,
+        "name": "1122 Ngô Quyền - Subaru Đà Nẵng",
+        "role": "platform"
+      },
+      {
+        "id": 11882946579,
+        "lat": 16.0524069,
+        "lon": 108.2369568,
+        "name": "34 Ngũ Hành Sơn",
+        "role": "platform"
+      },
+      {
+        "id": 5540465623,
+        "lat": 16.0477443,
+        "lon": 108.2383351,
+        "name": "180 Ngũ Hành Sơn",
+        "role": "platform"
+      },
+      {
+        "id": 4939774521,
+        "lat": 16.045448,
+        "lon": 108.2391324,
+        "name": "240 Ngũ Hành Sơn",
+        "role": "platform"
+      },
+      {
+        "id": 11882946580,
+        "lat": 16.0426979,
+        "lon": 108.2405,
+        "name": "312 Ngũ Hành Sơn",
+        "role": "platform"
+      },
+      {
+        "id": 4939774621,
+        "lat": 16.0403623,
+        "lon": 108.2417027,
+        "name": "370 Ngũ Hành Sơn",
+        "role": "platform"
+      },
+      {
+        "id": 11882946581,
+        "lat": 16.0374649,
+        "lon": 108.2416528,
+        "name": "Chùa Bà Đa",
+        "role": "platform"
+      },
+      {
+        "id": 11882946582,
+        "lat": 16.03389,
+        "lon": 108.2280819,
+        "name": "Khu sân bóng đá Tuyên Sơn",
+        "role": "platform"
+      },
+      {
+        "id": 11562457269,
+        "lat": 16.0327539,
+        "lon": 108.2210862,
+        "name": "52 Xô Viết Nghệ Tĩnh - Đối diện Đại học Kiến trúc Đà Nẵng",
+        "role": "platform"
+      },
+      {
+        "id": 11882946583,
+        "lat": 16.0321578,
+        "lon": 108.2157441,
+        "name": "270 Xô Viết Nghệ Tĩnh - Đối diện Tổng công ty phát điện EVNGENCO2",
+        "role": "platform"
+      },
+      {
+        "id": 11882946584,
+        "lat": 16.0304277,
+        "lon": 108.2084994,
+        "name": "460 Nguyễn Hữu Thọ - Viettronimex",
+        "role": "platform"
+      },
+      {
+        "id": 11882946585,
+        "lat": 16.0243919,
+        "lon": 108.2076418,
+        "name": "40-42 Lê Đại Hành",
+        "role": "platform"
+      },
+      {
+        "id": 11882946586,
+        "lat": 16.0233971,
+        "lon": 108.2040672,
+        "name": "86 Lê Đại Hành - Nhà tang lễ",
+        "role": "platform"
+      },
+      {
+        "id": 11882946587,
+        "lat": 16.0201111,
+        "lon": 108.2031135,
+        "name": "Công ty Dệt may Hòa Thọ",
+        "role": "platform"
+      },
+      {
+        "id": 11882946588,
+        "lat": 16.0164188,
+        "lon": 108.204815,
+        "name": "58 Ông Ích Đường",
+        "role": "platform"
+      },
+      {
+        "id": 11882946589,
+        "lat": 16.0122823,
+        "lon": 108.205476,
+        "name": "164 Ông Ích Đường",
+        "role": "platform"
+      },
+      {
+        "id": 11882946590,
+        "lat": 16.0028844,
+        "lon": 108.2069726,
+        "name": "50 Phạm Hùng",
+        "role": "platform"
+      },
+      {
+        "id": 11881362068,
+        "lat": 15.9993076,
+        "lon": 108.2070715,
+        "name": "182 Phạm Hùng",
+        "role": "platform"
+      }
+    ]
+  },
+  {
+    "osm_id": 17564088,
+    "ref": "08",
+    "name": "Bến xe Phạm Hùng - Vũng Thúng",
+    "from": "Bến xe Phạm Hùng",
+    "to": "Vũng Thúng",
+    "operator": "Công ty Cổ phần Xe khách Phương Trang - FUTA Bus Lines",
+    "colour": "",
+    "charge": "8000 VND",
+    "interval": "00:10-00:30",
+    "stops_count": 31,
+    "stops": [
+      {
+        "id": 11881377387,
+        "lat": 15.9965334,
+        "lon": 108.2073941,
+        "name": "Đối diện trạm xe buýt Phạm Hùng",
+        "role": "platform"
+      },
+      {
+        "id": 11881377388,
+        "lat": 15.9985264,
+        "lon": 108.2072692,
+        "name": "121 Phạm Hùng",
+        "role": "platform"
+      },
+      {
+        "id": 11882946592,
+        "lat": 16.0035159,
+        "lon": 108.2073023,
+        "name": "Toyota Phạm Hùng",
+        "role": "platform"
+      },
+      {
+        "id": 11882946593,
+        "lat": 16.0123745,
+        "lon": 108.2056589,
+        "name": "297 Ông Ích Đường",
+        "role": "platform"
+      },
+      {
+        "id": 11882946594,
+        "lat": 16.0160973,
+        "lon": 108.2050848,
+        "name": "171 Ông Ích Đường",
+        "role": "platform"
+      },
+      {
+        "id": 11882946595,
+        "lat": 16.0197768,
+        "lon": 108.2034574,
+        "name": "Trường Trung học phổ thông Hòa Vang",
+        "role": "platform"
+      },
+      {
+        "id": 11882946596,
+        "lat": 16.0231948,
+        "lon": 108.204246,
+        "name": "117 Lê Đại Hành - Quán Đồng Dao",
+        "role": "platform"
+      },
+      {
+        "id": 11882946597,
+        "lat": 16.023964,
+        "lon": 108.2070876,
+        "name": "60 Lê Đại Hành - Công ty Vận tải Tân Minh Toàn",
+        "role": "platform"
+      },
+      {
+        "id": 11882946598,
+        "lat": 16.0262483,
+        "lon": 108.2089835,
+        "name": "773 Nguyễn Hữu Thọ",
+        "role": "platform"
+      },
+      {
+        "id": 11882946599,
+        "lat": 16.0297757,
+        "lon": 108.208793,
+        "name": "Đối diện Viettronimex",
+        "role": "platform"
+      },
+      {
+        "id": 11882946600,
+        "lat": 16.0314702,
+        "lon": 108.2117502,
+        "name": "Ngã ba Xô Viết Nghệ Tĩnh - Xuân Thủy",
+        "role": "platform"
+      },
+      {
+        "id": 11882946601,
+        "lat": 16.0319005,
+        "lon": 108.2156962,
+        "name": "Tổng công ty phát điện EVNGENCO2",
+        "role": "platform"
+      },
+      {
+        "id": 11562653969,
+        "lat": 16.0323489,
+        "lon": 108.2195414,
+        "name": "Đối diện Ô tô Đại Thống",
+        "role": "platform"
+      },
+      {
+        "id": 11562663069,
+        "lat": 16.0327145,
+        "lon": 108.2224383,
+        "name": "Đại học Kiến trúc Đà Nẵng",
+        "role": "platform"
+      },
+      {
+        "id": 11562713369,
+        "lat": 16.0336128,
+        "lon": 108.2277312,
+        "name": "Đối diện Siêu thị Lotte",
+        "role": "platform"
+      },
+      {
+        "id": 11882946602,
+        "lat": 16.0372851,
+        "lon": 108.2418037,
+        "name": "Đối diện Chùa Bà Đa",
+        "role": "platform"
+      },
+      {
+        "id": 4939774522,
+        "lat": 16.0393594,
+        "lon": 108.2426384,
+        "name": "Đối diện UBND Phường Mỹ An",
+        "role": "platform"
+      },
+      {
+        "id": 11562713370,
+        "lat": 16.0428219,
+        "lon": 108.2409222,
+        "name": "141 Ngũ Hành Sơn - Công ty Công viên Cây xanh Đà Nẵng",
+        "role": "platform"
+      },
+      {
+        "id": 4939752422,
+        "lat": 16.0452637,
+        "lon": 108.2396807,
+        "name": "Trường Quân sự Quân khu 5",
+        "role": "platform"
+      },
+      {
+        "id": 5540465622,
+        "lat": 16.047932,
+        "lon": 108.238686,
+        "name": "Trường Đại học Kinh tế, Đại học Đà Nẵng",
+        "role": "platform"
+      },
+      {
+        "id": 5276547022,
+        "lat": 16.0518303,
+        "lon": 108.2375278,
+        "name": "29 Ngũ Hành Sơn",
+        "role": "platform"
+      },
+      {
+        "id": 11562713871,
+        "lat": 16.0566102,
+        "lon": 108.2360541,
+        "name": "1093 Ngô Quyền - Trung tâm Giáo dục thường xuyên số 1",
+        "role": "platform"
+      },
+      {
+        "id": 11562719669,
+        "lat": 16.0604622,
+        "lon": 108.234923,
+        "name": "1011 Ngô Quyền - Ngân hàng OCB",
+        "role": "platform"
+      },
+      {
+        "id": 11606543169,
+        "lat": 16.0627026,
+        "lon": 108.2342305,
+        "name": "967 Ngô Quyền - Công an Phường An Hải Đông",
+        "role": "platform"
+      },
+      {
+        "id": 11882946603,
+        "lat": 16.0665138,
+        "lon": 108.2330794,
+        "name": "849 Ngô Quyền",
+        "role": "platform"
+      },
+      {
+        "id": 11882946604,
+        "lat": 16.0707943,
+        "lon": 108.2314855,
+        "name": "741 Ngô Quyền - Đối diện Vincom Plaza",
+        "role": "platform"
+      },
+      {
+        "id": 6270777385,
+        "lat": 16.0744094,
+        "lon": 108.2307627,
+        "name": "733 Ngô Quyền - Đối diện Trường Mầm non ABC",
+        "role": "platform"
+      },
+      {
+        "id": 11882946605,
+        "lat": 16.0781794,
+        "lon": 108.2326462,
+        "name": "575 Ngô Quyền",
+        "role": "platform"
+      },
+      {
+        "id": 11882946606,
+        "lat": 16.0806203,
+        "lon": 108.2350112,
+        "name": "461 Ngô Quyền",
+        "role": "platform"
+      },
+      {
+        "id": 11882946607,
+        "lat": 16.0832155,
+        "lon": 108.2375899,
+        "name": "Ngã tư Ngô Quyền - Vương Thừa Vũ",
+        "role": "platform"
+      },
+      {
+        "id": 11882946608,
+        "lat": 16.0856349,
+        "lon": 108.2361226,
+        "name": "Đối diện 32 Trần Thánh Tông",
+        "role": "platform"
+      }
+    ]
+  },
+  {
+    "osm_id": 17564090,
+    "ref": "11",
+    "name": "Xuân Diệu - Bệnh viện Phụ sản nhi",
+    "from": "Xuân Diệu",
+    "to": "Bệnh viện Phụ sản nhi",
+    "operator": "Công ty Cổ phần Xe khách Phương Trang - FUTA Bus Lines",
+    "colour": "",
+    "charge": "8000 VND",
+    "interval": "00:10-00:30",
+    "stops_count": 24,
+    "stops": [
+      {
+        "id": 11882946610,
+        "lat": 16.0870197,
+        "lon": 108.2164535,
+        "name": "159 Đường 3/2",
+        "role": "platform"
+      },
+      {
+        "id": 7158198121,
+        "lat": 16.0856655,
+        "lon": 108.2140547,
+        "name": "61 Nguyễn Tất Thành",
+        "role": "platform"
+      },
+      {
+        "id": 7158188357,
+        "lat": 16.0808786,
+        "lon": 108.2112124,
+        "name": "219 Nguyễn Tất Thành",
+        "role": "platform"
+      },
+      {
+        "id": 11882946611,
+        "lat": 16.0779261,
+        "lon": 108.2118674,
+        "name": "Đối diện 36 Ông Ích Khiêm",
+        "role": "platform"
+      },
+      {
+        "id": 11882946612,
+        "lat": 16.0745346,
+        "lon": 108.2125349,
+        "name": "81 Ông Ích Khiêm",
+        "role": "platform"
+      },
+      {
+        "id": 11882946613,
+        "lat": 16.0713549,
+        "lon": 108.2111907,
+        "name": "196 Hải Phòng",
+        "role": "platform"
+      },
+      {
+        "id": 11882946614,
+        "lat": 16.0633403,
+        "lon": 108.2104777,
+        "name": "Bờ hồ Hàm Nghi",
+        "role": "platform"
+      },
+      {
+        "id": 11882946615,
+        "lat": 16.0584271,
+        "lon": 108.2112569,
+        "name": "Chung cư Lê Đình Lý",
+        "role": "platform"
+      },
+      {
+        "id": 4914129427,
+        "lat": 16.0542148,
+        "lon": 108.2115301,
+        "name": "Đối diện Toyota 155 Lê Đình Lý",
+        "role": "platform"
+      },
+      {
+        "id": 11882946616,
+        "lat": 16.0517598,
+        "lon": 108.2099339,
+        "name": "Đối diên 159 Lê Đình Lý - Nhà khách Vạn Tường",
+        "role": "platform"
+      },
+      {
+        "id": 11882946617,
+        "lat": 16.0491558,
+        "lon": 108.2092426,
+        "name": "38 Nguyễn Hữu Thọ (Nhà khách Quốc phòng 206)",
+        "role": "platform"
+      },
+      {
+        "id": 4820574121,
+        "lat": 16.0447639,
+        "lon": 108.2098486,
+        "name": "128 Nguyễn Hữu Thọ",
+        "role": "platform"
+      },
+      {
+        "id": 11882946618,
+        "lat": 16.0359714,
+        "lon": 108.2134019,
+        "name": "183 Phan Đăng Lưu (Trước Cảnh sát PCCC Thành phố Đà Nẵng)",
+        "role": "platform"
+      },
+      {
+        "id": 11882946619,
+        "lat": 16.0359715,
+        "lon": 108.2159122,
+        "name": "128 Phan Đăng Lưu",
+        "role": "platform"
+      },
+      {
+        "id": 11882946620,
+        "lat": 16.0368264,
+        "lon": 108.2191386,
+        "name": "Trường Trung học phổ thông Nguyễn Hiền",
+        "role": "platform"
+      },
+      {
+        "id": 11882946621,
+        "lat": 16.0375728,
+        "lon": 108.2227546,
+        "name": "6 Phan Đăng Lưu",
+        "role": "platform"
+      },
+      {
+        "id": 11882946622,
+        "lat": 16.0378049,
+        "lon": 108.2258719,
+        "name": "Công viên Châu Á",
+        "role": "platform"
+      },
+      {
+        "id": 11882946623,
+        "lat": 16.0345274,
+        "lon": 108.2287285,
+        "name": "Đối diện Siêu thị Lotte",
+        "role": "platform"
+      },
+      {
+        "id": 11562713369,
+        "lat": 16.0336128,
+        "lon": 108.2277312,
+        "name": "Đối diện Siêu thị Lotte",
+        "role": "platform"
+      },
+      {
+        "id": 11882946602,
+        "lat": 16.0372851,
+        "lon": 108.2418037,
+        "name": "Đối diện Chùa Bà Đa",
+        "role": "platform"
+      },
+      {
+        "id": 11882946624,
+        "lat": 16.03666,
+        "lon": 108.2436625,
+        "name": "40 Lê Văn Hiến",
+        "role": "platform"
+      },
+      {
+        "id": 11882946625,
+        "lat": 16.0325449,
+        "lon": 108.2457424,
+        "name": "160 Lê Văn Hiến",
+        "role": "platform"
+      },
+      {
+        "id": 11882946626,
+        "lat": 16.0295853,
+        "lon": 108.2472413,
+        "name": "256 Lê Văn Hiến",
+        "role": "platform"
+      },
+      {
+        "id": 11363572147,
+        "lat": 16.0250571,
+        "lon": 108.2495258,
+        "name": "376 Lê Văn Hiến",
+        "role": "platform"
+      }
+    ]
+  },
+  {
+    "osm_id": 17564091,
+    "ref": "11",
+    "name": "Bệnh viện Phụ sản nhi - Xuân Diệu",
+    "from": "Bệnh viện Phụ sản nhi",
+    "to": "Xuân Diệu",
+    "operator": "Công ty Cổ phần Xe khách Phương Trang - FUTA Bus Lines",
+    "colour": "",
+    "charge": "8000 VND",
+    "interval": "00:10-00:30",
+    "stops_count": 25,
+    "stops": [
+      {
+        "id": 11882946628,
+        "lat": 16.0229164,
+        "lon": 108.2510106,
+        "name": "125 Lê Văn Hiến",
+        "role": "platform"
+      },
+      {
+        "id": 11882946629,
+        "lat": 16.025205,
+        "lon": 108.2498726,
+        "name": "Đối diện 380 Lê Văn Hiến",
+        "role": "platform"
+      },
+      {
+        "id": 11882946630,
+        "lat": 16.0293097,
+        "lon": 108.2477978,
+        "name": "Đối diện 270 Lê Văn Hiến",
+        "role": "platform"
+      },
+      {
+        "id": 11882946631,
+        "lat": 16.0337507,
+        "lon": 108.2455101,
+        "name": "61 Lê Văn Hiến",
+        "role": "platform"
+      },
+      {
+        "id": 11882946632,
+        "lat": 16.036352,
+        "lon": 108.2441869,
+        "name": "Đối diện 50 Lê Văn Hiến",
+        "role": "platform"
+      },
+      {
+        "id": 11882946581,
+        "lat": 16.0374649,
+        "lon": 108.2416528,
+        "name": "Chùa Bà Đa",
+        "role": "platform"
+      },
+      {
+        "id": 11882946633,
+        "lat": 16.0346664,
+        "lon": 108.228866,
+        "name": "Siêu thị Lotte",
+        "role": "platform"
+      },
+      {
+        "id": 11882946634,
+        "lat": 16.0381534,
+        "lon": 108.225404,
+        "name": "Công viên Châu Á",
+        "role": "platform"
+      },
+      {
+        "id": 11882946635,
+        "lat": 16.0377275,
+        "lon": 108.222778,
+        "name": "23-25 Phan Đăng Lưu",
+        "role": "platform"
+      },
+      {
+        "id": 11882946636,
+        "lat": 16.0371143,
+        "lon": 108.2195756,
+        "name": "Bệnh viện Mắt Đà Nẵng (Đối diện 53 Phan Đăng Lưu)",
+        "role": "platform"
+      },
+      {
+        "id": 11882946637,
+        "lat": 16.0362004,
+        "lon": 108.2166212,
+        "name": "123-125 Phan Đăng Lưu",
+        "role": "platform"
+      },
+      {
+        "id": 11882946638,
+        "lat": 16.0361182,
+        "lon": 108.21356,
+        "name": "190 Phan Đăng Lưu",
+        "role": "platform"
+      },
+      {
+        "id": 11882946639,
+        "lat": 16.037732,
+        "lon": 108.2103452,
+        "name": "Bệnh viện Vinmec (323 Nguyễn Hữu Thọ)",
+        "role": "platform"
+      },
+      {
+        "id": 11882946640,
+        "lat": 16.0448868,
+        "lon": 108.2100578,
+        "name": "Trường Tiểu học Lý Công Uẩn (181 Nguyễn Hữu Thọ)",
+        "role": "platform"
+      },
+      {
+        "id": 11882946641,
+        "lat": 16.0492706,
+        "lon": 108.2095054,
+        "name": "113 Nguyễn Hữu Thọ",
+        "role": "platform"
+      },
+      {
+        "id": 11882946642,
+        "lat": 16.0516315,
+        "lon": 108.2100625,
+        "name": "191 Lê Đình Lý",
+        "role": "platform"
+      },
+      {
+        "id": 11882946643,
+        "lat": 16.0539179,
+        "lon": 108.2115726,
+        "name": "Toyota 155 Lê Đình Lý",
+        "role": "platform"
+      },
+      {
+        "id": 11882946644,
+        "lat": 16.0592496,
+        "lon": 108.2113252,
+        "name": "1 Lê Đình Lý (Bưu điện Đà Nẵng)",
+        "role": "platform"
+      },
+      {
+        "id": 4914129425,
+        "lat": 16.0629262,
+        "lon": 108.2108003,
+        "name": "Bờ hồ Hàm Nghi",
+        "role": "platform"
+      },
+      {
+        "id": 11882946645,
+        "lat": 16.0712282,
+        "lon": 108.2109993,
+        "name": "231 Hải Phòng",
+        "role": "platform"
+      },
+      {
+        "id": 11882946646,
+        "lat": 16.0750058,
+        "lon": 108.2125774,
+        "name": "162-164 Ông Ích Khiêm",
+        "role": "platform"
+      },
+      {
+        "id": 11882946647,
+        "lat": 16.0778868,
+        "lon": 108.211996,
+        "name": "Phú Gia Compound (144 Ông Ích Khiêm)",
+        "role": "platform"
+      },
+      {
+        "id": 11882946648,
+        "lat": 16.0807028,
+        "lon": 108.2113733,
+        "name": "221 Nguyễn Tất Thành",
+        "role": "platform"
+      },
+      {
+        "id": 11882946649,
+        "lat": 16.0856235,
+        "lon": 108.2143354,
+        "name": "39 Nguyễn Tất Thành",
+        "role": "platform"
+      },
+      {
+        "id": 11882946650,
+        "lat": 16.0868416,
+        "lon": 108.2163061,
+        "name": "192 Đường 3/2",
+        "role": "platform"
+      }
+    ]
+  },
+  {
+    "osm_id": 17565554,
+    "ref": "12",
+    "name": "Xuân Diệu - Bến xe Phạm Hùng",
+    "from": "Xuân Diệu",
+    "to": "Bến xe Phạm Hùng",
+    "operator": "Công ty Cổ phần Xe khách Phương Trang - FUTA Bus Lines",
+    "colour": "",
+    "charge": "8000 VND",
+    "interval": "00:10-00:30",
+    "stops_count": 30,
+    "stops": [
+      {
+        "id": 4914148721,
+        "lat": 16.0847125,
+        "lon": 108.2206707,
+        "name": "49 Đường 3/2",
+        "role": "platform"
+      },
+      {
+        "id": 4914129421,
+        "lat": 16.0824504,
+        "lon": 108.2208533,
+        "name": "20 Đống Đa",
+        "role": "platform"
+      },
+      {
+        "id": 11883892097,
+        "lat": 16.0788199,
+        "lon": 108.2193321,
+        "name": "40 Lê Lợi",
+        "role": "platform"
+      },
+      {
+        "id": 4949016324,
+        "lat": 16.0742501,
+        "lon": 108.219937,
+        "name": "128 Lê Lợi",
+        "role": "platform"
+      },
+      {
+        "id": 11881093533,
+        "lat": 16.0721702,
+        "lon": 108.220237,
+        "name": "154 Lê Lợi",
+        "role": "platform"
+      },
+      {
+        "id": 6273711585,
+        "lat": 16.0713286,
+        "lon": 108.219844,
+        "name": "Đối diện Đại học Đà Nẵng",
+        "role": "platform"
+      },
+      {
+        "id": 6273727187,
+        "lat": 16.0704772,
+        "lon": 108.2143434,
+        "name": "166 Lê Duẩn",
+        "role": "platform"
+      },
+      {
+        "id": 4196908590,
+        "lat": 16.0696105,
+        "lon": 108.2101995,
+        "name": "312 Lê Duẩn",
+        "role": "platform"
+      },
+      {
+        "id": 11883892098,
+        "lat": 16.0667308,
+        "lon": 108.207097,
+        "name": "456 Lê Duẩn",
+        "role": "platform"
+      },
+      {
+        "id": 4475252092,
+        "lat": 16.0660603,
+        "lon": 108.2038544,
+        "name": "Đối diện Công viên 29/3",
+        "role": "platform"
+      },
+      {
+        "id": 11883892099,
+        "lat": 16.0652424,
+        "lon": 108.2026479,
+        "name": "8 Nguyễn Tri Phương",
+        "role": "platform"
+      },
+      {
+        "id": 11883892100,
+        "lat": 16.0620161,
+        "lon": 108.2041879,
+        "name": "88 Nguyễn Tri Phương",
+        "role": "platform"
+      },
+      {
+        "id": 11883892102,
+        "lat": 16.0568257,
+        "lon": 108.2028661,
+        "name": "Ga Quốc tế Đà Nẵng",
+        "role": "platform"
+      },
+      {
+        "id": 7030411286,
+        "lat": 16.052724,
+        "lon": 108.2033633,
+        "name": "Ga Quốc nội Đà Nẵng",
+        "role": "platform"
+      },
+      {
+        "id": 11883892101,
+        "lat": 16.0577511,
+        "lon": 108.2063382,
+        "name": "222 Nguyễn Tri Phương",
+        "role": "platform"
+      },
+      {
+        "id": 11883892103,
+        "lat": 16.0534886,
+        "lon": 108.208656,
+        "name": "2 Nguyễn Hữu Thọ",
+        "role": "platform"
+      },
+      {
+        "id": 11882946617,
+        "lat": 16.0491558,
+        "lon": 108.2092426,
+        "name": "38 Nguyễn Hữu Thọ (Nhà khách Quốc phòng 206)",
+        "role": "platform"
+      },
+      {
+        "id": 4820574121,
+        "lat": 16.0447639,
+        "lon": 108.2098486,
+        "name": "128 Nguyễn Hữu Thọ",
+        "role": "platform"
+      },
+      {
+        "id": 11883892104,
+        "lat": 16.036242,
+        "lon": 108.2097314,
+        "name": "300 Nguyễn Hữu Thọ",
+        "role": "platform"
+      },
+      {
+        "id": 11883892105,
+        "lat": 16.0346942,
+        "lon": 108.2093172,
+        "name": "356 Nguyễn Hữu Thọ",
+        "role": "platform"
+      },
+      {
+        "id": 11882946584,
+        "lat": 16.0304277,
+        "lon": 108.2084994,
+        "name": "460 Nguyễn Hữu Thọ - Viettronimex",
+        "role": "platform"
+      },
+      {
+        "id": 11883892106,
+        "lat": 16.0281528,
+        "lon": 108.2086143,
+        "name": "538 Nguyễn Hữu Thọ",
+        "role": "platform"
+      },
+      {
+        "id": 11883892107,
+        "lat": 16.0212914,
+        "lon": 108.2104125,
+        "name": "676 Nguyễn Hữu Thọ",
+        "role": "platform"
+      },
+      {
+        "id": 11883892108,
+        "lat": 16.0091702,
+        "lon": 108.2144869,
+        "name": "Ngã tư Đinh Gia Trinh - Thanh Hóa",
+        "role": "platform"
+      },
+      {
+        "id": 11883892109,
+        "lat": 16.0081162,
+        "lon": 108.2129487,
+        "name": "Ngã ba Đinh Gia Trinh - Văn Tiến Dũng",
+        "role": "platform"
+      },
+      {
+        "id": 11883892110,
+        "lat": 16.0059132,
+        "lon": 108.2127392,
+        "name": "55-57 Văn Tiến Dũng",
+        "role": "platform"
+      },
+      {
+        "id": 11883892111,
+        "lat": 16.0037717,
+        "lon": 108.2128325,
+        "name": "Công viên Văn Tiến Dũng",
+        "role": "platform"
+      },
+      {
+        "id": 11883892112,
+        "lat": 15.9985573,
+        "lon": 108.2131215,
+        "name": "Khu chung cư Hòa Xuân",
+        "role": "platform"
+      },
+      {
+        "id": 11883892113,
+        "lat": 15.9946817,
+        "lon": 108.2129568,
+        "name": "Ngã tư Nguyễn Xuân Lâm - Đô Đốc Tuyết",
+        "role": "platform"
+      },
+      {
+        "id": 11883892115,
+        "lat": 15.9945323,
+        "lon": 108.2101487,
+        "name": "Công viên Nguyễn Xuân Lâm",
+        "role": "platform"
+      }
+    ]
+  },
+  {
+    "osm_id": 17565555,
+    "ref": "12",
+    "name": "Bến xe Phạm Hùng - Xuân Thủy",
+    "from": "Bến xe Phạm Hùng",
+    "to": "Xuân Thủy",
+    "operator": "Công ty Cổ phần Xe khách Phương Trang - FUTA Bus Lines",
+    "colour": "",
+    "charge": "8000 VND",
+    "interval": "00:10-00:30",
+    "stops_count": 30,
+    "stops": [
+      {
+        "id": 11883892116,
+        "lat": 15.9943939,
+        "lon": 108.2099444,
+        "name": "Đối diện Công viên Nguyễn Xuân Lâm",
+        "role": "platform"
+      },
+      {
+        "id": 11883892117,
+        "lat": 15.994469,
+        "lon": 108.2121427,
+        "name": "Ngã tư Nguyễn Xuân Lâm - Đô Đức Tuyết",
+        "role": "platform"
+      },
+      {
+        "id": 11883892118,
+        "lat": 15.9983771,
+        "lon": 108.2132989,
+        "name": "Khu chung cư Hòa Xuân",
+        "role": "platform"
+      },
+      {
+        "id": 11883892119,
+        "lat": 16.0024782,
+        "lon": 108.2130374,
+        "name": "Trường Tiểu học Trần Đại Nghĩa",
+        "role": "platform"
+      },
+      {
+        "id": 11883892120,
+        "lat": 16.0057379,
+        "lon": 108.2129002,
+        "name": "30 Văn Tiến Dũng",
+        "role": "platform"
+      },
+      {
+        "id": 11883892121,
+        "lat": 16.0082489,
+        "lon": 108.2133583,
+        "name": "Ngã ba Đinh Gia Trinh - Đô Đốc Lộc",
+        "role": "platform"
+      },
+      {
+        "id": 11883892122,
+        "lat": 16.0096781,
+        "lon": 108.2154283,
+        "name": "Ngã tư Đinh Gia Trinh - Võ An Ninh",
+        "role": "platform"
+      },
+      {
+        "id": 11883892123,
+        "lat": 16.0216735,
+        "lon": 108.2105377,
+        "name": "Công ty Nissan Đà Nẵng",
+        "role": "platform"
+      },
+      {
+        "id": 11882946598,
+        "lat": 16.0262483,
+        "lon": 108.2089835,
+        "name": "773 Nguyễn Hữu Thọ",
+        "role": "platform"
+      },
+      {
+        "id": 11882946599,
+        "lat": 16.0297757,
+        "lon": 108.208793,
+        "name": "Đối diện Viettronimex",
+        "role": "platform"
+      },
+      {
+        "id": 11883892124,
+        "lat": 16.0327035,
+        "lon": 108.209106,
+        "name": "513-515 Nguyễn Hữu Thọ",
+        "role": "platform"
+      },
+      {
+        "id": 11882946639,
+        "lat": 16.037732,
+        "lon": 108.2103452,
+        "name": "Bệnh viện Vinmec (323 Nguyễn Hữu Thọ)",
+        "role": "platform"
+      },
+      {
+        "id": 11882946640,
+        "lat": 16.0448868,
+        "lon": 108.2100578,
+        "name": "Trường Tiểu học Lý Công Uẩn (181 Nguyễn Hữu Thọ)",
+        "role": "platform"
+      },
+      {
+        "id": 11882946641,
+        "lat": 16.0492706,
+        "lon": 108.2095054,
+        "name": "113 Nguyễn Hữu Thọ",
+        "role": "platform"
+      },
+      {
+        "id": 11883892125,
+        "lat": 16.0531247,
+        "lon": 108.208993,
+        "name": "Bệnh viện Gia Đình (91 Nguyễn Hữu Thọ)",
+        "role": "platform"
+      },
+      {
+        "id": 11883892126,
+        "lat": 16.057674,
+        "lon": 108.2066151,
+        "name": "31 Nguyễn Tri Phương",
+        "role": "platform"
+      },
+      {
+        "id": 11883892102,
+        "lat": 16.0568257,
+        "lon": 108.2028661,
+        "name": "Ga Quốc tế Đà Nẵng",
+        "role": "platform"
+      },
+      {
+        "id": 7030411286,
+        "lat": 16.052724,
+        "lon": 108.2033633,
+        "name": "Ga Quốc nội Đà Nẵng",
+        "role": "platform"
+      },
+      {
+        "id": 11883892127,
+        "lat": 16.0620878,
+        "lon": 108.2044442,
+        "name": "Cổng phụ Công viên 29/3",
+        "role": "platform"
+      },
+      {
+        "id": 6275708885,
+        "lat": 16.0647975,
+        "lon": 108.2031237,
+        "name": "Cầu đi bộ Công viên 29/3",
+        "role": "platform"
+      },
+      {
+        "id": 6273470985,
+        "lat": 16.0658755,
+        "lon": 108.2051924,
+        "name": "Công viên 29/3",
+        "role": "platform"
+      },
+      {
+        "id": 11883892128,
+        "lat": 16.0671097,
+        "lon": 108.2076177,
+        "name": "435 Lê Duẩn",
+        "role": "platform"
+      },
+      {
+        "id": 4333858597,
+        "lat": 16.0695134,
+        "lon": 108.2102805,
+        "name": "301 Lê Duẩn",
+        "role": "platform"
+      },
+      {
+        "id": 4572683792,
+        "lat": 16.0704056,
+        "lon": 108.2147549,
+        "name": "155 Lê Duẩn",
+        "role": "platform"
+      },
+      {
+        "id": 6270937385,
+        "lat": 16.0711512,
+        "lon": 108.219235,
+        "name": "Đại học Đà Nẵng",
+        "role": "platform"
+      },
+      {
+        "id": 11597370771,
+        "lat": 16.0733049,
+        "lon": 108.2208807,
+        "name": "Chùa Tân Ninh (Đối diện 76 Nguyễn Chí Thanh)",
+        "role": "platform"
+      },
+      {
+        "id": 11883892129,
+        "lat": 16.0790807,
+        "lon": 108.2201142,
+        "name": "17 Nguyễn Chí Thanh",
+        "role": "platform"
+      },
+      {
+        "id": 11883892130,
+        "lat": 16.0801401,
+        "lon": 108.2183691,
+        "name": "75 Đống Đa",
+        "role": "platform"
+      },
+      {
+        "id": 6270906595,
+        "lat": 16.0822883,
+        "lon": 108.2206808,
+        "name": "Đối diện 20 Đống Đa",
+        "role": "platform"
+      },
+      {
+        "id": 4564834190,
+        "lat": 16.084216,
+        "lon": 108.2214775,
+        "name": "24 Đường 3/2",
+        "role": "platform"
+      }
+    ]
+  },
+  {
+    "osm_id": 17565557,
+    "ref": "02",
+    "name": "Bến xe Trung tâm - Trung tâm Hành chính Thành phố Đà Nẵng - Cửa Đại",
+    "from": "Bến xe Trung tâm",
+    "to": "Cửa Đại",
+    "operator": "Công ty Cổ phần Xe khách Phương Trang - FUTA Bus Lines",
+    "colour": "",
+    "charge": "30000 VND",
+    "interval": "00:15-00:30",
+    "stops_count": 0,
+    "stops": []
+  },
+  {
+    "osm_id": 17565558,
+    "ref": "02",
+    "name": "Cửa Đại - Trung tâm Hành chính Thành phố Đà Nẵng - Bến xe Trung tâm",
+    "from": "Cửa Đại",
+    "to": "Bến xe Trung tâm",
+    "operator": "Công ty Cổ phần Xe khách Phương Trang - FUTA Bus Lines",
+    "colour": "",
+    "charge": "30000 VND",
+    "interval": "00:15-00:30",
+    "stops_count": 0,
+    "stops": []
+  },
+  {
+    "osm_id": 17570199,
+    "ref": "03",
+    "name": "Sân bay Đà Nẵng - Khu du lịch Bà Nà Hills",
+    "from": "Sân bay Đà Nẵng",
+    "to": "Khu du lịch Bà Nà Hills",
+    "operator": "Công ty Cổ phần Xe khách Phương Trang - FUTA Bus Lines",
+    "colour": "",
+    "charge": "30000 VND",
+    "interval": "00:30-01:10",
+    "stops_count": 15,
+    "stops": [
+      {
+        "id": 11883892102,
+        "lat": 16.0568257,
+        "lon": 108.2028661,
+        "name": "Ga Quốc tế Đà Nẵng",
+        "role": "platform"
+      },
+      {
+        "id": 7030411286,
+        "lat": 16.052724,
+        "lon": 108.2033633,
+        "name": "Ga Quốc nội Đà Nẵng",
+        "role": "platform"
+      },
+      {
+        "id": 11883892127,
+        "lat": 16.0620878,
+        "lon": 108.2044442,
+        "name": "Cổng phụ Công viên 29/3",
+        "role": "platform"
+      },
+      {
+        "id": 6275708885,
+        "lat": 16.0647975,
+        "lon": 108.2031237,
+        "name": "Cầu đi bộ Công viên 29/3",
+        "role": "platform"
+      },
+      {
+        "id": 11886977632,
+        "lat": 16.0657987,
+        "lon": 108.1992579,
+        "name": "130 Điện Biện Phủ",
+        "role": "platform"
+      },
+      {
+        "id": 11886977633,
+        "lat": 16.0660023,
+        "lon": 108.1929368,
+        "name": "336 Điện Biên Phủ",
+        "role": "platform"
+      },
+      {
+        "id": 11555672069,
+        "lat": 16.0659991,
+        "lon": 108.1889939,
+        "name": "416 Điện Biên Phủ",
+        "role": "platform"
+      },
+      {
+        "id": 11886977634,
+        "lat": 16.0656837,
+        "lon": 108.1842728,
+        "name": "570 Điện Biên Phủ",
+        "role": "platform"
+      },
+      {
+        "id": 11886977635,
+        "lat": 16.0590601,
+        "lon": 108.1742896,
+        "name": "128 Tôn Đức Thắng",
+        "role": "platform"
+      },
+      {
+        "id": 11886977636,
+        "lat": 16.0562884,
+        "lon": 108.1660847,
+        "name": "12 Hoàng Văn Thái",
+        "role": "platform"
+      },
+      {
+        "id": 11886977637,
+        "lat": 16.0552456,
+        "lon": 108.1626916,
+        "name": "Bệnh viện đa khoa Nam Liên Chiểu",
+        "role": "platform"
+      },
+      {
+        "id": 11886977638,
+        "lat": 16.0521371,
+        "lon": 108.1521887,
+        "name": "294 Hoàng Văn Thái",
+        "role": "platform"
+      },
+      {
+        "id": 11886977639,
+        "lat": 16.0310463,
+        "lon": 108.1170563,
+        "name": "Đình Đại La",
+        "role": "platform"
+      },
+      {
+        "id": 11886977640,
+        "lat": 16.0214287,
+        "lon": 108.0540633,
+        "name": "Sân Golf Bà Nà Hills",
+        "role": "platform"
+      },
+      {
+        "id": 11886977644,
+        "lat": 16.0221089,
+        "lon": 108.1030775,
+        "name": "Đối diện Thôn Trước Đông",
+        "role": "platform"
+      }
+    ]
+  },
+  {
+    "osm_id": 17570200,
+    "ref": "03",
+    "name": "Khu du lịch Bà Nà Hills - Sân bay Đà Nẵng",
+    "from": "Khu du lịch Bà Nà Hills",
+    "to": "Sân bay Đà Nẵng",
+    "operator": "Công ty Cổ phần Xe khách Phương Trang - FUTA Bus Lines",
+    "colour": "",
+    "charge": "30000 VND",
+    "interval": "00:30-01:10",
+    "stops_count": 15,
+    "stops": [
+      {
+        "id": 11886977643,
+        "lat": 16.0213089,
+        "lon": 108.0542327,
+        "name": "Sân Golf Bà Nà Hills",
+        "role": "platform"
+      },
+      {
+        "id": 11886977645,
+        "lat": 16.0219531,
+        "lon": 108.1032691,
+        "name": "Thôn Trước Đông",
+        "role": "platform"
+      },
+      {
+        "id": 11886977646,
+        "lat": 16.03075,
+        "lon": 108.1170027,
+        "name": "Đối diện Đình Đại La",
+        "role": "platform"
+      },
+      {
+        "id": 11886977647,
+        "lat": 16.0520634,
+        "lon": 108.1525449,
+        "name": "229 Hoàng Văn Thái",
+        "role": "platform"
+      },
+      {
+        "id": 11886977648,
+        "lat": 16.0551033,
+        "lon": 108.1628081,
+        "name": "Đối diện Bệnh viện đa khoa Nam Liên Chiểu",
+        "role": "platform"
+      },
+      {
+        "id": 11886977649,
+        "lat": 16.056069,
+        "lon": 108.1660186,
+        "name": "Đối diện 12 Hoàng Văn Thái",
+        "role": "platform"
+      },
+      {
+        "id": 11886977650,
+        "lat": 16.0583474,
+        "lon": 108.173631,
+        "name": "171 Tôn Đức Thắng",
+        "role": "platform"
+      },
+      {
+        "id": 11886977651,
+        "lat": 16.0653437,
+        "lon": 108.1845316,
+        "name": "563 Điện Biên Phủ",
+        "role": "platform"
+      },
+      {
+        "id": 11886977653,
+        "lat": 16.0657051,
+        "lon": 108.1889999,
+        "name": "441 Điện Biên Phủ",
+        "role": "platform"
+      },
+      {
+        "id": 11886977652,
+        "lat": 16.0656834,
+        "lon": 108.1929047,
+        "name": "309 Điện Biên Phủ",
+        "role": "platform"
+      },
+      {
+        "id": 11886977654,
+        "lat": 16.0654606,
+        "lon": 108.1990089,
+        "name": "135 Điện Biên Phủ",
+        "role": "platform"
+      },
+      {
+        "id": 11883892099,
+        "lat": 16.0652424,
+        "lon": 108.2026479,
+        "name": "8 Nguyễn Tri Phương",
+        "role": "platform"
+      },
+      {
+        "id": 11883892100,
+        "lat": 16.0620161,
+        "lon": 108.2041879,
+        "name": "88 Nguyễn Tri Phương",
+        "role": "platform"
+      },
+      {
+        "id": 11883892102,
+        "lat": 16.0568257,
+        "lon": 108.2028661,
+        "name": "Ga Quốc tế Đà Nẵng",
+        "role": "platform"
+      },
+      {
+        "id": 7030411286,
+        "lat": 16.052724,
+        "lon": 108.2033633,
+        "name": "Ga Quốc nội Đà Nẵng",
+        "role": "platform"
+      }
+    ]
+  },
+  {
+    "osm_id": 17570202,
+    "ref": "09",
+    "name": "Bệnh viện Ung bướu - Bến xe Phạm Hùng",
+    "from": "Bệnh viện Ung bướu",
+    "to": "Bến xe Phạm Hùng",
+    "operator": "Công ty Cổ phần Xe khách Phương Trang - FUTA Bus Lines",
+    "colour": "",
+    "charge": "15000 VND",
+    "interval": "00:20-00:30",
+    "stops_count": 28,
+    "stops": [
+      {
+        "id": 11886977657,
+        "lat": 16.0723594,
+        "lon": 108.1597834,
+        "name": "Trung tâm hành chính Quận Liên Chiểu",
+        "role": "platform"
+      },
+      {
+        "id": 11886977658,
+        "lat": 16.0666368,
+        "lon": 108.1557988,
+        "name": "Khu ký túc xá phía Tây",
+        "role": "platform"
+      },
+      {
+        "id": 11886977659,
+        "lat": 16.0647741,
+        "lon": 108.1557328,
+        "name": "525 Tôn Đức Thắng",
+        "role": "platform"
+      },
+      {
+        "id": 11886977660,
+        "lat": 16.0625287,
+        "lon": 108.1591262,
+        "name": "Trường Đại học Sư phạm - Đại học Đà Nẵng",
+        "role": "platform"
+      },
+      {
+        "id": 11886977661,
+        "lat": 16.0599903,
+        "lon": 108.1629472,
+        "name": "Trường Hải Auto - 405 Tôn Đức Thắng",
+        "role": "platform"
+      },
+      {
+        "id": 11886977662,
+        "lat": 16.0572384,
+        "lon": 108.1665531,
+        "name": "Điện Máy Xanh - 341 Tôn Đức Thắng",
+        "role": "platform"
+      },
+      {
+        "id": 11886977636,
+        "lat": 16.0562884,
+        "lon": 108.1660847,
+        "name": "12 Hoàng Văn Thái",
+        "role": "platform"
+      },
+      {
+        "id": 11886977637,
+        "lat": 16.0552456,
+        "lon": 108.1626916,
+        "name": "Bệnh viện đa khoa Nam Liên Chiểu",
+        "role": "platform"
+      },
+      {
+        "id": 11886977663,
+        "lat": 16.0514375,
+        "lon": 108.1598561,
+        "name": "64 Hoàng Minh Thảo",
+        "role": "platform"
+      },
+      {
+        "id": 11886977664,
+        "lat": 16.0497517,
+        "lon": 108.1603569,
+        "name": "Đại học Duy Tân",
+        "role": "platform"
+      },
+      {
+        "id": 11886977665,
+        "lat": 16.0463332,
+        "lon": 108.1655611,
+        "name": "31 Lê Sao",
+        "role": "platform"
+      },
+      {
+        "id": 11886977666,
+        "lat": 16.0458586,
+        "lon": 108.1673172,
+        "name": "102 Bùi Tấn Diên",
+        "role": "platform"
+      },
+      {
+        "id": 11886977667,
+        "lat": 16.0428574,
+        "lon": 108.170608,
+        "name": "256 Bùi Tấn Diên",
+        "role": "platform"
+      },
+      {
+        "id": 11886977668,
+        "lat": 16.0405879,
+        "lon": 108.1703702,
+        "name": "Đối diện 131 Lê Đình Kỵ",
+        "role": "platform"
+      },
+      {
+        "id": 11886983269,
+        "lat": 16.0372136,
+        "lon": 108.1729241,
+        "name": "233 Lê Trọng Tấn",
+        "role": "platform"
+      },
+      {
+        "id": 11886983270,
+        "lat": 16.0346944,
+        "lon": 108.1788686,
+        "name": "185 Lê Trọng Tấn",
+        "role": "platform"
+      },
+      {
+        "id": 11886983271,
+        "lat": 16.0353445,
+        "lon": 108.1813193,
+        "name": "151 Lê Trọng Tấn",
+        "role": "platform"
+      },
+      {
+        "id": 11886983272,
+        "lat": 16.0350067,
+        "lon": 108.1844954,
+        "name": "634 Tôn Đản",
+        "role": "platform"
+      },
+      {
+        "id": 11886983273,
+        "lat": 16.0320813,
+        "lon": 108.1851223,
+        "name": "Chợ Hòa Phát",
+        "role": "platform"
+      },
+      {
+        "id": 11886983274,
+        "lat": 16.0269852,
+        "lon": 108.1888298,
+        "name": "40 Vũ Lăng",
+        "role": "platform"
+      },
+      {
+        "id": 11886983275,
+        "lat": 16.0272311,
+        "lon": 108.1902411,
+        "name": "1016 Trường Chinh",
+        "role": "platform"
+      },
+      {
+        "id": 11886983276,
+        "lat": 16.0217925,
+        "lon": 108.1932865,
+        "name": "1120 Trường Chinh",
+        "role": "platform"
+      },
+      {
+        "id": 11886983277,
+        "lat": 16.0203854,
+        "lon": 108.1957647,
+        "name": "303 Lê Đại Hành",
+        "role": "platform"
+      },
+      {
+        "id": 11886983278,
+        "lat": 16.0222,
+        "lon": 108.2011383,
+        "name": "205 Lê Đại Hành",
+        "role": "platform"
+      },
+      {
+        "id": 11882946587,
+        "lat": 16.0201111,
+        "lon": 108.2031135,
+        "name": "Công ty Dệt may Hòa Thọ",
+        "role": "platform"
+      },
+      {
+        "id": 11882946588,
+        "lat": 16.0164188,
+        "lon": 108.204815,
+        "name": "58 Ông Ích Đường",
+        "role": "platform"
+      },
+      {
+        "id": 11882946590,
+        "lat": 16.0028844,
+        "lon": 108.2069726,
+        "name": "50 Phạm Hùng",
+        "role": "platform"
+      },
+      {
+        "id": 11881362068,
+        "lat": 15.9993076,
+        "lon": 108.2070715,
+        "name": "182 Phạm Hùng",
+        "role": "platform"
+      }
+    ]
+  },
+  {
+    "osm_id": 17570203,
+    "ref": "09",
+    "name": "Bến xe Phạm Hùng - Bệnh viện Ung bướu",
+    "from": "Bến xe Phạm Hùng",
+    "to": "Bệnh viện Ung bướu",
+    "operator": "Công ty Cổ phần Xe khách Phương Trang - FUTA Bus Lines",
+    "colour": "",
+    "charge": "15000 VND",
+    "interval": "00:20-00:30",
+    "stops_count": 26,
+    "stops": [
+      {
+        "id": 11881377388,
+        "lat": 15.9985264,
+        "lon": 108.2072692,
+        "name": "121 Phạm Hùng",
+        "role": "platform"
+      },
+      {
+        "id": 11882946592,
+        "lat": 16.0035159,
+        "lon": 108.2073023,
+        "name": "Toyota Phạm Hùng",
+        "role": "platform"
+      },
+      {
+        "id": 11882946594,
+        "lat": 16.0160973,
+        "lon": 108.2050848,
+        "name": "171 Ông Ích Đường",
+        "role": "platform"
+      },
+      {
+        "id": 11882946595,
+        "lat": 16.0197768,
+        "lon": 108.2034574,
+        "name": "Trường Trung học phổ thông Hòa Vang",
+        "role": "platform"
+      },
+      {
+        "id": 11886983281,
+        "lat": 16.0206072,
+        "lon": 108.1956882,
+        "name": "346 Lê Đại Hành",
+        "role": "platform"
+      },
+      {
+        "id": 11886983282,
+        "lat": 16.0221429,
+        "lon": 108.1933904,
+        "name": "593 Trường Chinh",
+        "role": "platform"
+      },
+      {
+        "id": 11886983283,
+        "lat": 16.0269117,
+        "lon": 108.1906432,
+        "name": "555C Trường Chinh",
+        "role": "platform"
+      },
+      {
+        "id": 11886983284,
+        "lat": 16.0268977,
+        "lon": 108.1885243,
+        "name": "41 Vũ Lăng",
+        "role": "platform"
+      },
+      {
+        "id": 11886983285,
+        "lat": 16.0320664,
+        "lon": 108.1852298,
+        "name": "Trường Tiểu học Thái Thị Bôi",
+        "role": "platform"
+      },
+      {
+        "id": 11886983286,
+        "lat": 16.0345417,
+        "lon": 108.1847143,
+        "name": "711 Tôn Đản",
+        "role": "platform"
+      },
+      {
+        "id": 11886983287,
+        "lat": 16.0355302,
+        "lon": 108.1816029,
+        "name": "202 Lê Trọng Tấn",
+        "role": "platform"
+      },
+      {
+        "id": 11886983288,
+        "lat": 16.0348164,
+        "lon": 108.1789311,
+        "name": "226 Lê Trọng Tấn",
+        "role": "platform"
+      },
+      {
+        "id": 11886983289,
+        "lat": 16.0371925,
+        "lon": 108.1730298,
+        "name": "Đối diện 233 Lê Trọng Tấn",
+        "role": "platform"
+      },
+      {
+        "id": 11886983290,
+        "lat": 16.0403015,
+        "lon": 108.1702967,
+        "name": "131 Lê Đình Kỵ",
+        "role": "platform"
+      },
+      {
+        "id": 11886983291,
+        "lat": 16.0429675,
+        "lon": 108.1706037,
+        "name": "251 Bùi Tấn Diên",
+        "role": "platform"
+      },
+      {
+        "id": 11886983292,
+        "lat": 16.045965,
+        "lon": 108.1673595,
+        "name": "107 Bùi Tấn Diên",
+        "role": "platform"
+      },
+      {
+        "id": 11886983294,
+        "lat": 16.0497246,
+        "lon": 108.1604887,
+        "name": "Đối diện Đại học Duy Tân",
+        "role": "platform"
+      },
+      {
+        "id": 11886983295,
+        "lat": 16.0515904,
+        "lon": 108.159914,
+        "name": "Đối diện 62 Hoàng Minh Thảo",
+        "role": "platform"
+      },
+      {
+        "id": 11886977648,
+        "lat": 16.0551033,
+        "lon": 108.1628081,
+        "name": "Đối diện Bệnh viện đa khoa Nam Liên Chiểu",
+        "role": "platform"
+      },
+      {
+        "id": 11886977649,
+        "lat": 16.056069,
+        "lon": 108.1660186,
+        "name": "Đối diện 12 Hoàng Văn Thái",
+        "role": "platform"
+      },
+      {
+        "id": 11886983296,
+        "lat": 16.0581426,
+        "lon": 108.1659133,
+        "name": "Đối diện 399 Tôn Đức Thắng",
+        "role": "platform"
+      },
+      {
+        "id": 11886983297,
+        "lat": 16.0605108,
+        "lon": 108.1625748,
+        "name": "428 Tôn Đức Thắng",
+        "role": "platform"
+      },
+      {
+        "id": 11886983298,
+        "lat": 16.0629831,
+        "lon": 108.1588462,
+        "name": "552 Tôn Đức Thắng",
+        "role": "platform"
+      },
+      {
+        "id": 11886983299,
+        "lat": 16.064843,
+        "lon": 108.1561147,
+        "name": "650 Tôn Đức Thắng",
+        "role": "platform"
+      },
+      {
+        "id": 11886983300,
+        "lat": 16.0661522,
+        "lon": 108.1559067,
+        "name": "Đối diện Khu kí túc xá phía Tây",
+        "role": "platform"
+      },
+      {
+        "id": 11886983302,
+        "lat": 16.0720418,
+        "lon": 108.1600514,
+        "name": "233 Nguyễn Sinh Sắc",
+        "role": "platform"
+      }
+    ]
+  },
+  {
+    "osm_id": 17576911,
+    "ref": "13",
+    "name": "Bệnh viện Ung bướu - Đại học Việt Hàn",
+    "from": "Bệnh viện Ung bướu",
+    "to": "Đại học Việt Hàn",
+    "operator": "Công ty Cổ phần Xe khách Phương Trang - FUTA Bus Lines",
+    "colour": "",
+    "charge": "18000 VND",
+    "interval": "00:15-00:30",
+    "stops_count": 21,
+    "stops": [
+      {
+        "id": 11891349387,
+        "lat": 16.0684256,
+        "lon": 108.1687313,
+        "name": "Đối diện Ngã ba Hoàng Thị Loan - Đặng Minh Khiêm",
+        "role": "platform"
+      },
+      {
+        "id": 11891349388,
+        "lat": 16.0573285,
+        "lon": 108.1802324,
+        "name": "120 Trường Chinh",
+        "role": "platform"
+      },
+      {
+        "id": 11891349389,
+        "lat": 16.0514226,
+        "lon": 108.1821954,
+        "name": "314 Trường Chinh",
+        "role": "platform"
+      },
+      {
+        "id": 11891349390,
+        "lat": 16.0447377,
+        "lon": 108.1844248,
+        "name": "Đối diện cây xăng dầu số 375 Trường Chinh",
+        "role": "platform"
+      },
+      {
+        "id": 11891349391,
+        "lat": 16.0341195,
+        "lon": 108.1879534,
+        "name": "860 Trường Chinh",
+        "role": "platform"
+      },
+      {
+        "id": 11886983275,
+        "lat": 16.0272311,
+        "lon": 108.1902411,
+        "name": "1016 Trường Chinh",
+        "role": "platform"
+      },
+      {
+        "id": 11886983276,
+        "lat": 16.0217925,
+        "lon": 108.1932865,
+        "name": "1120 Trường Chinh",
+        "role": "platform"
+      },
+      {
+        "id": 11886983277,
+        "lat": 16.0203854,
+        "lon": 108.1957647,
+        "name": "303 Lê Đại Hành",
+        "role": "platform"
+      },
+      {
+        "id": 11886983278,
+        "lat": 16.0222,
+        "lon": 108.2011383,
+        "name": "205 Lê Đại Hành",
+        "role": "platform"
+      },
+      {
+        "id": 11882946596,
+        "lat": 16.0231948,
+        "lon": 108.204246,
+        "name": "117 Lê Đại Hành - Quán Đồng Dao",
+        "role": "platform"
+      },
+      {
+        "id": 11882946597,
+        "lat": 16.023964,
+        "lon": 108.2070876,
+        "name": "60 Lê Đại Hành - Công ty Vận tải Tân Minh Toàn",
+        "role": "platform"
+      },
+      {
+        "id": 11883892107,
+        "lat": 16.0212914,
+        "lon": 108.2104125,
+        "name": "676 Nguyễn Hữu Thọ",
+        "role": "platform"
+      },
+      {
+        "id": 11881362061,
+        "lat": 16.010278,
+        "lon": 108.2174334,
+        "name": "Chân cầu Nguyễn Tri Phương (6 Võ Chí Công)",
+        "role": "platform"
+      },
+      {
+        "id": 11891349392,
+        "lat": 16.006494,
+        "lon": 108.2204927,
+        "name": "Đối diện Công ty Hữu Toàn",
+        "role": "platform"
+      },
+      {
+        "id": 11891349393,
+        "lat": 16.0039716,
+        "lon": 108.2238411,
+        "name": "98 Võ Chí Công",
+        "role": "platform"
+      },
+      {
+        "id": 11891349394,
+        "lat": 15.9925988,
+        "lon": 108.2363819,
+        "name": "Đối diện Cây xăng Tấn Thanh Toàn",
+        "role": "platform"
+      },
+      {
+        "id": 11891349395,
+        "lat": 15.9852802,
+        "lon": 108.2413656,
+        "name": "Đối diện Nghĩa trang liệt sĩ Phường Hòa Quý",
+        "role": "platform"
+      },
+      {
+        "id": 11891349396,
+        "lat": 15.9830708,
+        "lon": 108.2525659,
+        "name": "Đối diện 100 Võ Chí Công",
+        "role": "platform"
+      },
+      {
+        "id": 11363536979,
+        "lat": 15.9827049,
+        "lon": 108.2557869,
+        "name": "324 Trần Đại Nghĩa",
+        "role": "platform"
+      },
+      {
+        "id": 11891349397,
+        "lat": 15.9791998,
+        "lon": 108.25502,
+        "name": "384 Trần Đại Nghĩa",
+        "role": "platform"
+      },
+      {
+        "id": 11883892150,
+        "lat": 15.9762795,
+        "lon": 108.2545304,
+        "name": "438 Trần Đại Nghĩa",
+        "role": "platform"
+      }
+    ]
+  },
+  {
+    "osm_id": 17576912,
+    "ref": "13",
+    "name": "Đại học Việt Hàn - Bệnh viện Ung bướu",
+    "from": "Đại học Việt Hàn",
+    "to": "Bệnh viện Ung bướu",
+    "operator": "Công ty Cổ phần Xe khách Phương Trang - FUTA Bus Lines",
+    "colour": "",
+    "charge": "18000 VND",
+    "interval": "00:15-00:30",
+    "stops_count": 22,
+    "stops": [
+      {
+        "id": 11883892152,
+        "lat": 15.9757766,
+        "lon": 108.2549427,
+        "name": "271 Trần Đại Nghĩa",
+        "role": "platform"
+      },
+      {
+        "id": 11891349399,
+        "lat": 15.9790051,
+        "lon": 108.2553347,
+        "name": "239 Trần Đại Nghĩa",
+        "role": "platform"
+      },
+      {
+        "id": 11891349400,
+        "lat": 15.9820825,
+        "lon": 108.256005,
+        "name": "Ngã tư Trần Đại Nghĩa  - Võ Quý Huân",
+        "role": "platform"
+      },
+      {
+        "id": 11891349401,
+        "lat": 15.98332,
+        "lon": 108.2522546,
+        "name": "100 Võ Chí Công",
+        "role": "platform"
+      },
+      {
+        "id": 11891349402,
+        "lat": 15.9853299,
+        "lon": 108.2415919,
+        "name": "Nghĩa trang liệt sĩ Phường Hòa Quý",
+        "role": "platform"
+      },
+      {
+        "id": 11891349403,
+        "lat": 15.9926323,
+        "lon": 108.2366441,
+        "name": "Cây xăng Tấn Thanh Toàn",
+        "role": "platform"
+      },
+      {
+        "id": 11891349404,
+        "lat": 16.0041232,
+        "lon": 108.224117,
+        "name": "101 Võ Chí Công",
+        "role": "platform"
+      },
+      {
+        "id": 11891349405,
+        "lat": 16.006393,
+        "lon": 108.2208982,
+        "name": "Công ty Hữu Toàn",
+        "role": "platform"
+      },
+      {
+        "id": 11881377395,
+        "lat": 16.0101937,
+        "lon": 108.217863,
+        "name": "Chân cầu Nguyễn Tri Phương (19 Võ Chí Công)",
+        "role": "platform"
+      },
+      {
+        "id": 11883892123,
+        "lat": 16.0216735,
+        "lon": 108.2105377,
+        "name": "Công ty Nissan Đà Nẵng",
+        "role": "platform"
+      },
+      {
+        "id": 11882946585,
+        "lat": 16.0243919,
+        "lon": 108.2076418,
+        "name": "40-42 Lê Đại Hành",
+        "role": "platform"
+      },
+      {
+        "id": 11882946586,
+        "lat": 16.0233971,
+        "lon": 108.2040672,
+        "name": "86 Lê Đại Hành - Nhà tang lễ",
+        "role": "platform"
+      },
+      {
+        "id": 11886983280,
+        "lat": 16.0224403,
+        "lon": 108.2010707,
+        "name": "172 Lê Đại Hành",
+        "role": "platform"
+      },
+      {
+        "id": 11886983281,
+        "lat": 16.0206072,
+        "lon": 108.1956882,
+        "name": "346 Lê Đại Hành",
+        "role": "platform"
+      },
+      {
+        "id": 11886983282,
+        "lat": 16.0221429,
+        "lon": 108.1933904,
+        "name": "593 Trường Chinh",
+        "role": "platform"
+      },
+      {
+        "id": 11886983283,
+        "lat": 16.0269117,
+        "lon": 108.1906432,
+        "name": "555C Trường Chinh",
+        "role": "platform"
+      },
+      {
+        "id": 11891349406,
+        "lat": 16.0338343,
+        "lon": 108.1883021,
+        "name": "517 Trường Chinh",
+        "role": "platform"
+      },
+      {
+        "id": 11891349407,
+        "lat": 16.0446874,
+        "lon": 108.1846834,
+        "name": "Cây xăng dầu số 375 Trường Chinh",
+        "role": "platform"
+      },
+      {
+        "id": 11891349408,
+        "lat": 16.0574648,
+        "lon": 108.180416,
+        "name": "Trạm y tế Phường An Khê",
+        "role": "platform"
+      },
+      {
+        "id": 11886977635,
+        "lat": 16.0590601,
+        "lon": 108.1742896,
+        "name": "128 Tôn Đức Thắng",
+        "role": "platform"
+      },
+      {
+        "id": 11883892133,
+        "lat": 16.0600745,
+        "lon": 108.1718197,
+        "name": "Đối diện Khách sạn Thành Hoa",
+        "role": "platform"
+      },
+      {
+        "id": 11891349409,
+        "lat": 16.0686654,
+        "lon": 108.168821,
+        "name": "Ngã ba Hoàng Thị Loan - Đặng Minh Khiêm",
+        "role": "platform"
+      }
+    ]
+  },
+  {
+    "osm_id": 17576914,
+    "ref": "14",
+    "name": "Cảng Sông Hàn - Khu Công nghệ Cao",
+    "from": "Cảng Sông Hàn",
+    "to": "Khu Công nghệ Cao",
+    "operator": "Công ty Cổ phần Xe khách Phương Trang - FUTA Bus Lines",
+    "colour": "",
+    "charge": "25000 VND",
+    "interval": "00:15-00:30",
+    "stops_count": 37,
+    "stops": [
+      {
+        "id": 11881362045,
+        "lat": 16.0812103,
+        "lon": 108.2226706,
+        "name": "6 Trần Phú",
+        "role": "platform"
+      },
+      {
+        "id": 11881362046,
+        "lat": 16.0758341,
+        "lon": 108.2233549,
+        "name": "Đối diện sân tennis đường Bạch Đằng",
+        "role": "platform"
+      },
+      {
+        "id": 11881093542,
+        "lat": 16.0716732,
+        "lon": 108.2222865,
+        "name": "14 Lê Duẩn",
+        "role": "platform"
+      },
+      {
+        "id": 6273711585,
+        "lat": 16.0713286,
+        "lon": 108.219844,
+        "name": "Đối diện Đại học Đà Nẵng",
+        "role": "platform"
+      },
+      {
+        "id": 6273727187,
+        "lat": 16.0704772,
+        "lon": 108.2143434,
+        "name": "166 Lê Duẩn",
+        "role": "platform"
+      },
+      {
+        "id": 4196908590,
+        "lat": 16.0696105,
+        "lon": 108.2101995,
+        "name": "312 Lê Duẩn",
+        "role": "platform"
+      },
+      {
+        "id": 11883892098,
+        "lat": 16.0667308,
+        "lon": 108.207097,
+        "name": "456 Lê Duẩn",
+        "role": "platform"
+      },
+      {
+        "id": 4475252092,
+        "lat": 16.0660603,
+        "lon": 108.2038544,
+        "name": "Đối diện Công viên 29/3",
+        "role": "platform"
+      },
+      {
+        "id": 11886977632,
+        "lat": 16.0657987,
+        "lon": 108.1992579,
+        "name": "130 Điện Biện Phủ",
+        "role": "platform"
+      },
+      {
+        "id": 11886977633,
+        "lat": 16.0660023,
+        "lon": 108.1929368,
+        "name": "336 Điện Biên Phủ",
+        "role": "platform"
+      },
+      {
+        "id": 11555672069,
+        "lat": 16.0659991,
+        "lon": 108.1889939,
+        "name": "416 Điện Biên Phủ",
+        "role": "platform"
+      },
+      {
+        "id": 11886977634,
+        "lat": 16.0656837,
+        "lon": 108.1842728,
+        "name": "570 Điện Biên Phủ",
+        "role": "platform"
+      },
+      {
+        "id": 11891349419,
+        "lat": 16.0657928,
+        "lon": 108.173188,
+        "name": "Đối diện Thiền viện Bồ Đề",
+        "role": "platform"
+      },
+      {
+        "id": 11891349409,
+        "lat": 16.0686654,
+        "lon": 108.168821,
+        "name": "Ngã ba Hoàng Thị Loan - Đặng Minh Khiêm",
+        "role": "platform"
+      },
+      {
+        "id": 11881093556,
+        "lat": 16.0716629,
+        "lon": 108.1642362,
+        "name": "Đối diện Bệnh viện Ung bướu Đà Nẵng",
+        "role": "platform"
+      },
+      {
+        "id": 11886977657,
+        "lat": 16.0723594,
+        "lon": 108.1597834,
+        "name": "Trung tâm hành chính Quận Liên Chiểu",
+        "role": "platform"
+      },
+      {
+        "id": 11886977658,
+        "lat": 16.0666368,
+        "lon": 108.1557988,
+        "name": "Khu ký túc xá phía Tây",
+        "role": "platform"
+      },
+      {
+        "id": 11891349420,
+        "lat": 16.0668128,
+        "lon": 108.1531392,
+        "name": "758 Tôn Đức Thắng",
+        "role": "platform"
+      },
+      {
+        "id": 11891349421,
+        "lat": 16.068541,
+        "lon": 108.1519034,
+        "name": "808-810 Tôn Đức Thắng",
+        "role": "platform"
+      },
+      {
+        "id": 11881093560,
+        "lat": 16.0712067,
+        "lon": 108.1507993,
+        "name": "900 Tôn Đức Thắng",
+        "role": "platform"
+      },
+      {
+        "id": 11891349422,
+        "lat": 16.0708943,
+        "lon": 108.1484357,
+        "name": "Đối diện Chợ Hòa Khánh",
+        "role": "platform"
+      },
+      {
+        "id": 11891349423,
+        "lat": 16.0710419,
+        "lon": 108.1434345,
+        "name": "240-242 Âu Cơ",
+        "role": "platform"
+      },
+      {
+        "id": 11891349424,
+        "lat": 16.0744369,
+        "lon": 108.1345957,
+        "name": "Đối diện 415 Âu Cơ",
+        "role": "platform"
+      },
+      {
+        "id": 11891349425,
+        "lat": 16.0759801,
+        "lon": 108.1323744,
+        "name": "Đối diện 519 Âu Cơ - Chợ Thanh Vinh",
+        "role": "platform"
+      },
+      {
+        "id": 11891349426,
+        "lat": 16.0785773,
+        "lon": 108.1228953,
+        "name": "Trường Tiểu học Âu Cơ - 548 Âu Cơ",
+        "role": "platform"
+      },
+      {
+        "id": 11891349427,
+        "lat": 16.0778195,
+        "lon": 108.1202231,
+        "name": "586 Âu Cơ",
+        "role": "platform"
+      },
+      {
+        "id": 11891349428,
+        "lat": 16.0768315,
+        "lon": 108.1146406,
+        "name": "Đối diện Giáo xứ An Ngãi Đông",
+        "role": "platform"
+      },
+      {
+        "id": 11891349429,
+        "lat": 16.0732168,
+        "lon": 108.1105526,
+        "name": "Đối diện Trạm y tế Xã Hòa Sơn",
+        "role": "platform"
+      },
+      {
+        "id": 11891349430,
+        "lat": 16.0689655,
+        "lon": 108.1069951,
+        "name": "UBND Xã Hòa Sơn",
+        "role": "platform"
+      },
+      {
+        "id": 11891349431,
+        "lat": 16.0702145,
+        "lon": 108.1048194,
+        "name": "Tạp hóa Thủy Đoàn",
+        "role": "platform"
+      },
+      {
+        "id": 11891349432,
+        "lat": 16.0770862,
+        "lon": 108.0990589,
+        "name": "Đối diện Nhà văn hóa Thôn Hướng Phước",
+        "role": "platform"
+      },
+      {
+        "id": 11891349433,
+        "lat": 16.0790981,
+        "lon": 108.0982208,
+        "name": "Đối diện Chợ Hòa Liên",
+        "role": "platform"
+      },
+      {
+        "id": 11891349434,
+        "lat": 16.0811235,
+        "lon": 108.0787542,
+        "name": "Công ty Foxlink - Đường số 14 Khu Công nghệ Cao",
+        "role": "platform"
+      },
+      {
+        "id": 11891349435,
+        "lat": 16.0837956,
+        "lon": 108.0752282,
+        "name": "Công ty Dentium - Đường số 12 Khu Công nghệ Cao",
+        "role": "platform"
+      },
+      {
+        "id": 11891349436,
+        "lat": 16.090357,
+        "lon": 108.0721102,
+        "name": "Công ty Trung Nam - Đường số 9 Khu Công nghệ Cao",
+        "role": "platform"
+      },
+      {
+        "id": 11891349437,
+        "lat": 16.0920597,
+        "lon": 108.0737114,
+        "name": "Công ty Niwa - Đường Trung tâm Khu Công nghệ Cao",
+        "role": "platform"
+      },
+      {
+        "id": 11891349438,
+        "lat": 16.0908266,
+        "lon": 108.0842143,
+        "name": "Bến xe buýt Khu Công nghệ Cao",
+        "role": "platform"
+      }
+    ]
+  },
+  {
+    "osm_id": 17576915,
+    "ref": "14",
+    "name": "Khu Công nghệ Cao - Cảng Sông Hàn",
+    "from": "Khu Công nghệ Cao",
+    "to": "Cảng Sông Hàn",
+    "operator": "Công ty Cổ phần Xe khách Phương Trang - FUTA Bus Lines",
+    "colour": "",
+    "charge": "25000 VND",
+    "interval": "00:15-00:30",
+    "stops_count": 36,
+    "stops": [
+      {
+        "id": 11891349442,
+        "lat": 16.0923583,
+        "lon": 108.0735088,
+        "name": "Công ty Niwa - Đường Trung tâm Khu Công nghệ Cao",
+        "role": "platform"
+      },
+      {
+        "id": 11891349443,
+        "lat": 16.0904578,
+        "lon": 108.0719057,
+        "name": "Công ty Trung Nam - Đường số 9 Khu Công nghệ Cao",
+        "role": "platform"
+      },
+      {
+        "id": 11891349444,
+        "lat": 16.0836578,
+        "lon": 108.0752344,
+        "name": "Công ty Dentium - Đường số 12 Khu Công nghệ Cao",
+        "role": "platform"
+      },
+      {
+        "id": 11891349445,
+        "lat": 16.081006,
+        "lon": 108.0787257,
+        "name": "Công ty Foxlink - Đường số 14 Khu Công nghệ Cao",
+        "role": "platform"
+      },
+      {
+        "id": 11891349446,
+        "lat": 16.0788112,
+        "lon": 108.0983363,
+        "name": "Chợ Hòa Liên",
+        "role": "platform"
+      },
+      {
+        "id": 11891349447,
+        "lat": 16.077287,
+        "lon": 108.0988828,
+        "name": "Nhà văn hóa Thôn Hướng Phước",
+        "role": "platform"
+      },
+      {
+        "id": 11891349448,
+        "lat": 16.0700511,
+        "lon": 108.1047535,
+        "name": "Đối diện Tạp hóa Thủy Đoàn",
+        "role": "platform"
+      },
+      {
+        "id": 11891349449,
+        "lat": 16.0690516,
+        "lon": 108.107245,
+        "name": "UBND Xã Hòa Sơn",
+        "role": "platform"
+      },
+      {
+        "id": 11891349450,
+        "lat": 16.0730803,
+        "lon": 108.1106193,
+        "name": "Trạm y tế Xã Hòa Sơn",
+        "role": "platform"
+      },
+      {
+        "id": 11891349451,
+        "lat": 16.0767578,
+        "lon": 108.1146401,
+        "name": "Giáo xứ An Ngãi Đông",
+        "role": "platform"
+      },
+      {
+        "id": 11891349452,
+        "lat": 16.0777209,
+        "lon": 108.1202658,
+        "name": "919 Âu Cơ",
+        "role": "platform"
+      },
+      {
+        "id": 11891349453,
+        "lat": 16.0784398,
+        "lon": 108.1228013,
+        "name": "Đối diện Trường Tiểu học Âu Cơ",
+        "role": "platform"
+      },
+      {
+        "id": 11891349454,
+        "lat": 16.0760776,
+        "lon": 108.1316918,
+        "name": "Đối diện Chợ Thanh Vinh",
+        "role": "platform"
+      },
+      {
+        "id": 11891349455,
+        "lat": 16.0740705,
+        "lon": 108.1349368,
+        "name": "403 Âu Cơ",
+        "role": "platform"
+      },
+      {
+        "id": 11891349456,
+        "lat": 16.0710929,
+        "lon": 108.1431124,
+        "name": "159-161 Âu Cơ",
+        "role": "platform"
+      },
+      {
+        "id": 11891349457,
+        "lat": 16.0709754,
+        "lon": 108.1488681,
+        "name": "Chợ Hòa Khánh",
+        "role": "platform"
+      },
+      {
+        "id": 11881093513,
+        "lat": 16.0714086,
+        "lon": 108.1504259,
+        "name": "755 Tôn Đức Thắng",
+        "role": "platform"
+      },
+      {
+        "id": 11891349458,
+        "lat": 16.0688044,
+        "lon": 108.1515296,
+        "name": "655 Tôn Đức Thắng",
+        "role": "platform"
+      },
+      {
+        "id": 11891349459,
+        "lat": 16.0661949,
+        "lon": 108.1536107,
+        "name": "573 Tôn Đức Thắng",
+        "role": "platform"
+      },
+      {
+        "id": 11886983300,
+        "lat": 16.0661522,
+        "lon": 108.1559067,
+        "name": "Đối diện Khu kí túc xá phía Tây",
+        "role": "platform"
+      },
+      {
+        "id": 11886983302,
+        "lat": 16.0720418,
+        "lon": 108.1600514,
+        "name": "233 Nguyễn Sinh Sắc",
+        "role": "platform"
+      },
+      {
+        "id": 11881093517,
+        "lat": 16.0714074,
+        "lon": 108.1641741,
+        "name": "Bệnh viện Ung bướu Đà Nẵng",
+        "role": "platform"
+      },
+      {
+        "id": 11891349387,
+        "lat": 16.0684256,
+        "lon": 108.1687313,
+        "name": "Đối diện Ngã ba Hoàng Thị Loan - Đặng Minh Khiêm",
+        "role": "platform"
+      },
+      {
+        "id": 11891349460,
+        "lat": 16.0654967,
+        "lon": 108.1732224,
+        "name": "Thiền viện Bồ Đề",
+        "role": "platform"
+      },
+      {
+        "id": 11886977651,
+        "lat": 16.0653437,
+        "lon": 108.1845316,
+        "name": "563 Điện Biên Phủ",
+        "role": "platform"
+      },
+      {
+        "id": 11886977653,
+        "lat": 16.0657051,
+        "lon": 108.1889999,
+        "name": "441 Điện Biên Phủ",
+        "role": "platform"
+      },
+      {
+        "id": 11886977652,
+        "lat": 16.0656834,
+        "lon": 108.1929047,
+        "name": "309 Điện Biên Phủ",
+        "role": "platform"
+      },
+      {
+        "id": 11886977654,
+        "lat": 16.0654606,
+        "lon": 108.1990089,
+        "name": "135 Điện Biên Phủ",
+        "role": "platform"
+      },
+      {
+        "id": 6273470985,
+        "lat": 16.0658755,
+        "lon": 108.2051924,
+        "name": "Công viên 29/3",
+        "role": "platform"
+      },
+      {
+        "id": 11883892128,
+        "lat": 16.0671097,
+        "lon": 108.2076177,
+        "name": "435 Lê Duẩn",
+        "role": "platform"
+      },
+      {
+        "id": 4333858597,
+        "lat": 16.0695134,
+        "lon": 108.2102805,
+        "name": "301 Lê Duẩn",
+        "role": "platform"
+      },
+      {
+        "id": 4572683792,
+        "lat": 16.0704056,
+        "lon": 108.2147549,
+        "name": "155 Lê Duẩn",
+        "role": "platform"
+      },
+      {
+        "id": 6270937385,
+        "lat": 16.0711512,
+        "lon": 108.219235,
+        "name": "Đại học Đà Nẵng",
+        "role": "platform"
+      },
+      {
+        "id": 11881093534,
+        "lat": 16.0715839,
+        "lon": 108.2229683,
+        "name": "Cầu Sông Hàn - 5 Lê Duẩn",
+        "role": "platform"
+      },
+      {
+        "id": 6270906592,
+        "lat": 16.0763213,
+        "lon": 108.2242469,
+        "name": "Trung tâm hành chính Thành phố Đà Nẵng",
+        "role": "platform"
+      },
+      {
+        "id": 11881377410,
+        "lat": 16.0796381,
+        "lon": 108.2238615,
+        "name": "Đối diện 20 Bạch Đằng",
+        "role": "platform"
+      }
+    ]
+  },
+  {
+    "osm_id": 17580611,
+    "ref": "21",
+    "name": "Bến xe Trung tâm - Trung tâm Hành chính Thành phố Đà Nẵng - Cầu Tam Kỳ (Phường Hương Trà)",
+    "from": "Bến xe Trung tâm",
+    "to": "Cầu Tam Kỳ (Phường Hương Trà)",
+    "operator": "Công ty Cổ phần Xe khách Phương Trang - FUTA Bus Lines",
+    "colour": "",
+    "charge": "48000 VND",
+    "interval": "00:05-00:45",
+    "stops_count": 0,
+    "stops": []
+  },
+  {
+    "osm_id": 17580612,
+    "ref": "21",
+    "name": "Cầu Tam Kỳ (Phường Hương Trà) - Trung tâm Hành chính Thành phố Đà Nẵng - Bến xe Trung tâm",
+    "from": "Cầu Tam Kỳ (Phường Hương Trà)",
+    "to": "Bến xe Trung tâm",
+    "operator": "Công ty Cổ phần Xe khách Phương Trang - FUTA Bus Lines",
+    "colour": "",
+    "charge": "48000 VND",
+    "interval": "00:05-00:45",
+    "stops_count": 0,
+    "stops": []
+  },
+  {
+    "osm_id": 17580614,
+    "ref": "LK1",
+    "name": "Đà Nẵng - Huế",
+    "from": "Bến xe Trung tâm (Đà Nẵng)",
+    "to": "Bến xe Phía Nam (Huế)",
+    "operator": "Công ty TNHH Vận tải & Dịch vụ Hải Vân",
+    "colour": "",
+    "charge": "80000 VND",
+    "interval": "00:14-00:15",
+    "stops_count": 22,
+    "stops": [
+      {
+        "id": 11894149743,
+        "lat": 16.0569356,
+        "lon": 108.1713555,
+        "name": "210 Tôn Đức Thắng",
+        "role": "platform"
+      },
+      {
+        "id": 11894149744,
+        "lat": 16.0565137,
+        "lon": 108.1682083,
+        "name": "294 Tôn Đức Thắng",
+        "role": "platform"
+      },
+      {
+        "id": 11886983296,
+        "lat": 16.0581426,
+        "lon": 108.1659133,
+        "name": "Đối diện 399 Tôn Đức Thắng",
+        "role": "platform"
+      },
+      {
+        "id": 11886983297,
+        "lat": 16.0605108,
+        "lon": 108.1625748,
+        "name": "428 Tôn Đức Thắng",
+        "role": "platform"
+      },
+      {
+        "id": 11886983299,
+        "lat": 16.064843,
+        "lon": 108.1561147,
+        "name": "650 Tôn Đức Thắng",
+        "role": "platform"
+      },
+      {
+        "id": 11891349420,
+        "lat": 16.0668128,
+        "lon": 108.1531392,
+        "name": "758 Tôn Đức Thắng",
+        "role": "platform"
+      },
+      {
+        "id": 11891349421,
+        "lat": 16.068541,
+        "lon": 108.1519034,
+        "name": "808-810 Tôn Đức Thắng",
+        "role": "platform"
+      },
+      {
+        "id": 11881093560,
+        "lat": 16.0712067,
+        "lon": 108.1507993,
+        "name": "900 Tôn Đức Thắng",
+        "role": "platform"
+      },
+      {
+        "id": 11881093561,
+        "lat": 16.0726985,
+        "lon": 108.1502009,
+        "name": "34 Nguyễn Lương Bằng",
+        "role": "platform"
+      },
+      {
+        "id": 11881093562,
+        "lat": 16.076882,
+        "lon": 108.1484689,
+        "name": "Bưu điện Hòa Khánh",
+        "role": "platform"
+      },
+      {
+        "id": 11881093563,
+        "lat": 16.0807158,
+        "lon": 108.1469073,
+        "name": "234 Nguyễn Lương Bằng",
+        "role": "platform"
+      },
+      {
+        "id": 11881093564,
+        "lat": 16.0830648,
+        "lon": 108.1459428,
+        "name": "Cổng KCN Hòa Khánh",
+        "role": "platform"
+      },
+      {
+        "id": 11881093565,
+        "lat": 16.0864064,
+        "lon": 108.1445562,
+        "name": "380 Nguyễn Lương Bằng",
+        "role": "platform"
+      },
+      {
+        "id": 11894149745,
+        "lat": 16.0903003,
+        "lon": 108.1429411,
+        "name": "436 Nguyễn Lương Bằng",
+        "role": "platform"
+      },
+      {
+        "id": 11894149746,
+        "lat": 16.1002593,
+        "lon": 108.1353757,
+        "name": "546 Nguyễn Lương Bằng",
+        "role": "platform"
+      },
+      {
+        "id": 11894149747,
+        "lat": 16.1053072,
+        "lon": 108.1329185,
+        "name": "636 Nguyễn Lương Bằng",
+        "role": "platform"
+      },
+      {
+        "id": 11894149748,
+        "lat": 16.110849,
+        "lon": 108.1296927,
+        "name": "788 Nguyễn Lương Bằng",
+        "role": "platform"
+      },
+      {
+        "id": 11894149749,
+        "lat": 16.1150991,
+        "lon": 108.1267945,
+        "name": "922 Nguyễn Lương Bằng",
+        "role": "platform"
+      },
+      {
+        "id": 11894149750,
+        "lat": 16.125583,
+        "lon": 108.1200598,
+        "name": "52 Nguyễn Văn Cừ",
+        "role": "platform"
+      },
+      {
+        "id": 11894149751,
+        "lat": 16.1280229,
+        "lon": 108.1163246,
+        "name": "Đối diện Nhà máy Sản xuất Tà Vẹt Đường Tạ Quang Bửu",
+        "role": "platform"
+      },
+      {
+        "id": 11894149752,
+        "lat": 16.1296007,
+        "lon": 108.10586,
+        "name": "Kề ngã ba vào Hầm Hải Vân",
+        "role": "platform"
+      },
+      {
+        "id": 11894149753,
+        "lat": 16.1324873,
+        "lon": 108.1071538,
+        "name": "Trạm trung chuyển xe mô tô đường Hầm Hải Vân",
+        "role": "platform"
+      }
+    ]
+  },
+  {
+    "osm_id": 17580615,
+    "ref": "LK1",
+    "name": "Huế - Đà Nẵng",
+    "from": "Bến xe Phía Nam (Huế)",
+    "to": "Bến xe Trung tâm (Đà Nẵng)",
+    "operator": "Công ty TNHH Vận tải & Dịch vụ Hải Vân",
+    "colour": "",
+    "charge": "80000 VND",
+    "interval": "00:14-00:15",
+    "stops_count": 19,
+    "stops": [
+      {
+        "id": 11894149755,
+        "lat": 16.1278653,
+        "lon": 108.1164123,
+        "name": "Nhà máy Sản xuất Tà Vẹt Đường Tạ Quang Bửu",
+        "role": "platform"
+      },
+      {
+        "id": 11894149756,
+        "lat": 16.1241842,
+        "lon": 108.1207351,
+        "name": "19 Nguyễn Văn Cừ",
+        "role": "platform"
+      },
+      {
+        "id": 11894149757,
+        "lat": 16.1131085,
+        "lon": 108.1281964,
+        "name": "957 Nguyễn Lương Bằng",
+        "role": "platform"
+      },
+      {
+        "id": 11894149758,
+        "lat": 16.1110265,
+        "lon": 108.1294164,
+        "name": "915 Nguyễn Lương Bằng",
+        "role": "platform"
+      },
+      {
+        "id": 11894149759,
+        "lat": 16.1049853,
+        "lon": 108.1328356,
+        "name": "817 Nguyễn Lương Bằng",
+        "role": "platform"
+      },
+      {
+        "id": 11894149760,
+        "lat": 16.1005495,
+        "lon": 108.1349683,
+        "name": "767 Nguyễn Lương Bằng",
+        "role": "platform"
+      },
+      {
+        "id": 11894149761,
+        "lat": 16.0900459,
+        "lon": 108.1428227,
+        "name": "497 Nguyễn Lương Bằng",
+        "role": "platform"
+      },
+      {
+        "id": 11881093507,
+        "lat": 16.0864598,
+        "lon": 108.1442954,
+        "name": "421 Nguyễn Lương Bằng",
+        "role": "platform"
+      },
+      {
+        "id": 11881093508,
+        "lat": 16.0830776,
+        "lon": 108.1457202,
+        "name": "Cổng KCN Hòa Khánh",
+        "role": "platform"
+      },
+      {
+        "id": 11881093509,
+        "lat": 16.0795826,
+        "lon": 108.147096,
+        "name": "Bệnh viện Tâm thần Đà Nẵng",
+        "role": "platform"
+      },
+      {
+        "id": 11881093510,
+        "lat": 16.0763059,
+        "lon": 108.1484408,
+        "name": "Cao đẳng Kinh tế - Kế hoạch Đà Nẵng",
+        "role": "platform"
+      },
+      {
+        "id": 11881093512,
+        "lat": 16.0726662,
+        "lon": 108.1499258,
+        "name": "Trường Trung học cơ sở Nguyễn Lương Bằng",
+        "role": "platform"
+      },
+      {
+        "id": 11881093513,
+        "lat": 16.0714086,
+        "lon": 108.1504259,
+        "name": "755 Tôn Đức Thắng",
+        "role": "platform"
+      },
+      {
+        "id": 11891349458,
+        "lat": 16.0688044,
+        "lon": 108.1515296,
+        "name": "655 Tôn Đức Thắng",
+        "role": "platform"
+      },
+      {
+        "id": 11891349459,
+        "lat": 16.0661949,
+        "lon": 108.1536107,
+        "name": "573 Tôn Đức Thắng",
+        "role": "platform"
+      },
+      {
+        "id": 11886977659,
+        "lat": 16.0647741,
+        "lon": 108.1557328,
+        "name": "525 Tôn Đức Thắng",
+        "role": "platform"
+      },
+      {
+        "id": 11886977660,
+        "lat": 16.0625287,
+        "lon": 108.1591262,
+        "name": "Trường Đại học Sư phạm - Đại học Đà Nẵng",
+        "role": "platform"
+      },
+      {
+        "id": 11886977661,
+        "lat": 16.0599903,
+        "lon": 108.1629472,
+        "name": "Trường Hải Auto - 405 Tôn Đức Thắng",
+        "role": "platform"
+      },
+      {
+        "id": 11886977662,
+        "lat": 16.0572384,
+        "lon": 108.1665531,
+        "name": "Điện Máy Xanh - 341 Tôn Đức Thắng",
+        "role": "platform"
+      }
+    ]
+  },
+  {
+    "osm_id": 17587405,
+    "ref": "04",
+    "name": "Cầu Trần Thị Lý - Hòa Tiến",
+    "from": "Cầu Trần Thị Lý",
+    "to": "Hòa Tiến",
+    "operator": "Công ty Cổ phần Công nghiệp Quảng An 1",
+    "colour": "",
+    "charge": "8000 VND",
+    "interval": "00:15-00:30",
+    "stops_count": 25,
+    "stops": [
+      {
+        "id": 11900103124,
+        "lat": 16.0512405,
+        "lon": 108.2220761,
+        "name": "154 Đường 2/9",
+        "role": "platform"
+      },
+      {
+        "id": 11900103125,
+        "lat": 16.0472604,
+        "lon": 108.2224447,
+        "name": "214 Đường 2/9",
+        "role": "platform"
+      },
+      {
+        "id": 11900103126,
+        "lat": 16.0427261,
+        "lon": 108.2230065,
+        "name": "Quảng trường 2/9",
+        "role": "platform"
+      },
+      {
+        "id": 11900103127,
+        "lat": 16.0359899,
+        "lon": 108.2238211,
+        "name": "Đối diện Rạp chiếu phim Metiz",
+        "role": "platform"
+      },
+      {
+        "id": 11562457269,
+        "lat": 16.0327539,
+        "lon": 108.2210862,
+        "name": "52 Xô Viết Nghệ Tĩnh - Đối diện Đại học Kiến trúc Đà Nẵng",
+        "role": "platform"
+      },
+      {
+        "id": 11882946583,
+        "lat": 16.0321578,
+        "lon": 108.2157441,
+        "name": "270 Xô Viết Nghệ Tĩnh - Đối diện Tổng công ty phát điện EVNGENCO2",
+        "role": "platform"
+      },
+      {
+        "id": 11894149739,
+        "lat": 16.0316834,
+        "lon": 108.2117766,
+        "name": "306 Xô Viết Nghệ Tĩnh",
+        "role": "platform"
+      },
+      {
+        "id": 11882946584,
+        "lat": 16.0304277,
+        "lon": 108.2084994,
+        "name": "460 Nguyễn Hữu Thọ - Viettronimex",
+        "role": "platform"
+      },
+      {
+        "id": 11883892106,
+        "lat": 16.0281528,
+        "lon": 108.2086143,
+        "name": "538 Nguyễn Hữu Thọ",
+        "role": "platform"
+      },
+      {
+        "id": 11882946585,
+        "lat": 16.0243919,
+        "lon": 108.2076418,
+        "name": "40-42 Lê Đại Hành",
+        "role": "platform"
+      },
+      {
+        "id": 11882946586,
+        "lat": 16.0233971,
+        "lon": 108.2040672,
+        "name": "86 Lê Đại Hành - Nhà tang lễ",
+        "role": "platform"
+      },
+      {
+        "id": 11882946587,
+        "lat": 16.0201111,
+        "lon": 108.2031135,
+        "name": "Công ty Dệt may Hòa Thọ",
+        "role": "platform"
+      },
+      {
+        "id": 11900103128,
+        "lat": 16.0167982,
+        "lon": 108.2036964,
+        "name": "296 Cách Mạng Tháng 8",
+        "role": "platform"
+      },
+      {
+        "id": 11900103129,
+        "lat": 16.0128547,
+        "lon": 108.1986191,
+        "name": "Đối diện Trường mầm non Bông Sen",
+        "role": "platform"
+      },
+      {
+        "id": 11900103130,
+        "lat": 16.0092518,
+        "lon": 108.1974054,
+        "name": "60 Đinh Châu",
+        "role": "platform"
+      },
+      {
+        "id": 11900103131,
+        "lat": 16.0065307,
+        "lon": 108.1965305,
+        "name": "Khu chung cư Nguyễn Hữu Tiến",
+        "role": "platform"
+      },
+      {
+        "id": 11900103132,
+        "lat": 16.0061818,
+        "lon": 108.1935711,
+        "name": "Trường Trung học cơ sở Nguyễn Văn Linh",
+        "role": "platform"
+      },
+      {
+        "id": 11900103133,
+        "lat": 16.0045389,
+        "lon": 108.1907957,
+        "name": "Đối diện Trung tâm Giáo dục Thường xuyên Cẩm Lệ",
+        "role": "platform"
+      },
+      {
+        "id": 11900103134,
+        "lat": 15.9953514,
+        "lon": 108.1920304,
+        "name": "Tạp hóa Xuân Thu",
+        "role": "platform"
+      },
+      {
+        "id": 11900103135,
+        "lat": 15.9812952,
+        "lon": 108.1864764,
+        "name": "Đối diện trụ điện 238",
+        "role": "platform"
+      },
+      {
+        "id": 11900103136,
+        "lat": 15.9779028,
+        "lon": 108.1853713,
+        "name": "Đối diện Honda Bá Hùng",
+        "role": "platform"
+      },
+      {
+        "id": 11900103137,
+        "lat": 15.9688255,
+        "lon": 108.1814918,
+        "name": "Trường Tiểu học Số 2 Hòa Tiến",
+        "role": "platform"
+      },
+      {
+        "id": 11900103138,
+        "lat": 15.9626871,
+        "lon": 108.1793436,
+        "name": "Kiệt 12 Thôn Lệ Sơn Bắc",
+        "role": "platform"
+      },
+      {
+        "id": 11900103139,
+        "lat": 15.9595834,
+        "lon": 108.1797525,
+        "name": "Đối diện Nhà thuốc số 1 thôn Lệ Sơn Bắc",
+        "role": "platform"
+      },
+      {
+        "id": 11900103154,
+        "lat": 16.0340323,
+        "lon": 108.2240414,
+        "name": "518 Đường 2/9",
+        "role": "platform"
+      }
+    ]
+  },
+  {
+    "osm_id": 17587406,
+    "ref": "04",
+    "name": "Hòa Tiến - Cầu Trần Thị Lý",
+    "from": "Hòa Tiến",
+    "to": "Cầu Trần Thị Lý",
+    "operator": "Công ty Cổ phần Công nghiệp Quảng An 1",
+    "colour": "",
+    "charge": "8000 VND",
+    "interval": "00:15-00:30",
+    "stops_count": 26,
+    "stops": [
+      {
+        "id": 11900103141,
+        "lat": 15.9597711,
+        "lon": 108.1799266,
+        "name": "Nhà thuốc số 1 thôn Lệ Sơn Bắc",
+        "role": "platform"
+      },
+      {
+        "id": 11900103142,
+        "lat": 15.9625616,
+        "lon": 108.1795548,
+        "name": "Đối diện Kiệt 12 Thôn Lệ Sơn Bắc",
+        "role": "platform"
+      },
+      {
+        "id": 11900103143,
+        "lat": 15.9685188,
+        "lon": 108.1816249,
+        "name": "Đối diện Trường Tiểu học Số 2 Hòa Tiến",
+        "role": "platform"
+      },
+      {
+        "id": 11900103144,
+        "lat": 15.9785686,
+        "lon": 108.1856735,
+        "name": "Kế Công ty Thuận Lực",
+        "role": "platform"
+      },
+      {
+        "id": 11900103145,
+        "lat": 15.980631,
+        "lon": 108.186402,
+        "name": "Kế Xưởng Gỗ Vinh",
+        "role": "platform"
+      },
+      {
+        "id": 11900103146,
+        "lat": 15.9960862,
+        "lon": 108.1920268,
+        "name": "Café Relax - Đối Diện Honda Thiện Hồng",
+        "role": "platform"
+      },
+      {
+        "id": 11900103147,
+        "lat": 16.0048928,
+        "lon": 108.1911877,
+        "name": "Trung tâm Giáo dục Thường xuyên Cẩm Lệ",
+        "role": "platform"
+      },
+      {
+        "id": 11900103148,
+        "lat": 16.0060976,
+        "lon": 108.1937418,
+        "name": "Đối diện Trường Trung học cơ sở Nguyễn Văn Linh",
+        "role": "platform"
+      },
+      {
+        "id": 11900103149,
+        "lat": 16.0063275,
+        "lon": 108.1964995,
+        "name": "Khu chung cư Nguyễn Hữu Tiến",
+        "role": "platform"
+      },
+      {
+        "id": 11900103150,
+        "lat": 16.0094445,
+        "lon": 108.1974171,
+        "name": "47 Đinh Châu",
+        "role": "platform"
+      },
+      {
+        "id": 11900103151,
+        "lat": 16.0126432,
+        "lon": 108.1987325,
+        "name": "Trường mầm non Bông Sen",
+        "role": "platform"
+      },
+      {
+        "id": 11900103152,
+        "lat": 16.0165349,
+        "lon": 108.2036934,
+        "name": "307 Cách Mạng Tháng 8",
+        "role": "platform"
+      },
+      {
+        "id": 11882946595,
+        "lat": 16.0197768,
+        "lon": 108.2034574,
+        "name": "Trường Trung học phổ thông Hòa Vang",
+        "role": "platform"
+      },
+      {
+        "id": 11882946596,
+        "lat": 16.0231948,
+        "lon": 108.204246,
+        "name": "117 Lê Đại Hành - Quán Đồng Dao",
+        "role": "platform"
+      },
+      {
+        "id": 11882946597,
+        "lat": 16.023964,
+        "lon": 108.2070876,
+        "name": "60 Lê Đại Hành - Công ty Vận tải Tân Minh Toàn",
+        "role": "platform"
+      },
+      {
+        "id": 11882946598,
+        "lat": 16.0262483,
+        "lon": 108.2089835,
+        "name": "773 Nguyễn Hữu Thọ",
+        "role": "platform"
+      },
+      {
+        "id": 11882946599,
+        "lat": 16.0297757,
+        "lon": 108.208793,
+        "name": "Đối diện Viettronimex",
+        "role": "platform"
+      },
+      {
+        "id": 11882946600,
+        "lat": 16.0314702,
+        "lon": 108.2117502,
+        "name": "Ngã ba Xô Viết Nghệ Tĩnh - Xuân Thủy",
+        "role": "platform"
+      },
+      {
+        "id": 11882946601,
+        "lat": 16.0319005,
+        "lon": 108.2156962,
+        "name": "Tổng công ty phát điện EVNGENCO2",
+        "role": "platform"
+      },
+      {
+        "id": 11562653969,
+        "lat": 16.0323489,
+        "lon": 108.2195414,
+        "name": "Đối diện Ô tô Đại Thống",
+        "role": "platform"
+      },
+      {
+        "id": 11562663069,
+        "lat": 16.0327145,
+        "lon": 108.2224383,
+        "name": "Đại học Kiến trúc Đà Nẵng",
+        "role": "platform"
+      },
+      {
+        "id": 11900103155,
+        "lat": 16.0340959,
+        "lon": 108.2242666,
+        "name": "Trung tâm Bóng rổ Trẻ Đà Nẵng",
+        "role": "platform"
+      },
+      {
+        "id": 11900103153,
+        "lat": 16.0359416,
+        "lon": 108.2240902,
+        "name": "Rạp chiếu phim Metiz",
+        "role": "platform"
+      },
+      {
+        "id": 11900103156,
+        "lat": 16.0428096,
+        "lon": 108.2232566,
+        "name": "Quảng trường 2/9",
+        "role": "platform"
+      },
+      {
+        "id": 11900103157,
+        "lat": 16.0477319,
+        "lon": 108.2226771,
+        "name": "Nhà hàng Phì Lũ",
+        "role": "platform"
+      },
+      {
+        "id": 11900103158,
+        "lat": 16.0508603,
+        "lon": 108.2223814,
+        "name": "Đối diện 146 Đường 2/9",
+        "role": "platform"
+      }
+    ]
+  },
+  {
+    "osm_id": 17587408,
+    "ref": "06",
+    "name": "Sân bay Đà Nẵng - Khu du lịch Non Nước",
+    "from": "Sân bay Đà Nẵng",
+    "to": "Khu du lịch Non Nước",
+    "operator": "Công ty Cổ phần Công nghiệp Quảng An 1",
+    "colour": "",
+    "charge": "8000 VND",
+    "interval": "00:45",
+    "stops_count": 20,
+    "stops": [
+      {
+        "id": 11883892102,
+        "lat": 16.0568257,
+        "lon": 108.2028661,
+        "name": "Ga Quốc tế Đà Nẵng",
+        "role": "platform"
+      },
+      {
+        "id": 7030411286,
+        "lat": 16.052724,
+        "lon": 108.2033633,
+        "name": "Ga Quốc nội Đà Nẵng",
+        "role": "platform"
+      },
+      {
+        "id": 11883892125,
+        "lat": 16.0531247,
+        "lon": 108.208993,
+        "name": "Bệnh viện Gia Đình (91 Nguyễn Hữu Thọ)",
+        "role": "platform"
+      },
+      {
+        "id": 11883892126,
+        "lat": 16.057674,
+        "lon": 108.2066151,
+        "name": "31 Nguyễn Tri Phương",
+        "role": "platform"
+      },
+      {
+        "id": 11900103162,
+        "lat": 16.058925,
+        "lon": 108.2070889,
+        "name": "389 Nguyễn Văn Linh",
+        "role": "platform"
+      },
+      {
+        "id": 11900103163,
+        "lat": 16.0596944,
+        "lon": 108.2102458,
+        "name": "Bệnh viện Hoàn Mỹ",
+        "role": "platform"
+      },
+      {
+        "id": 11900103164,
+        "lat": 16.060398,
+        "lon": 108.2151219,
+        "name": "155 Nguyễn Văn Linh",
+        "role": "platform"
+      },
+      {
+        "id": 11900103165,
+        "lat": 16.0607162,
+        "lon": 108.2177912,
+        "name": "Đối diện Chùa Phước Ninh",
+        "role": "platform"
+      },
+      {
+        "id": 11900103166,
+        "lat": 16.0609019,
+        "lon": 108.2217269,
+        "name": "11 Nguyễn Văn Linh",
+        "role": "platform"
+      },
+      {
+        "id": 11900103167,
+        "lat": 16.0612784,
+        "lon": 108.2336153,
+        "name": "Cầu Rồng",
+        "role": "platform"
+      },
+      {
+        "id": 11900103168,
+        "lat": 16.0621265,
+        "lon": 108.2392664,
+        "name": "Vườn cây cảnh Công Thuấn",
+        "role": "platform"
+      },
+      {
+        "id": 11900176969,
+        "lat": 16.0630182,
+        "lon": 108.2426952,
+        "name": "Trụ điện CS08T3",
+        "role": "platform"
+      },
+      {
+        "id": 11883892141,
+        "lat": 16.062439,
+        "lon": 108.2461674,
+        "name": "Khách sạn DTC",
+        "role": "platform"
+      },
+      {
+        "id": 11883892142,
+        "lat": 16.0580421,
+        "lon": 108.2466892,
+        "name": "258 Võ Nguyên Giáp - DLG Hotel",
+        "role": "platform"
+      },
+      {
+        "id": 11883892143,
+        "lat": 16.0481707,
+        "lon": 108.249176,
+        "name": "Đối diện 51 Võ Nguyên Giáp - Tu viện Phaolo",
+        "role": "platform"
+      },
+      {
+        "id": 11883892144,
+        "lat": 16.0395978,
+        "lon": 108.2494912,
+        "name": "Resort Pullman",
+        "role": "platform"
+      },
+      {
+        "id": 11900176970,
+        "lat": 16.0296511,
+        "lon": 108.2542141,
+        "name": "Olalani Resort",
+        "role": "platform"
+      },
+      {
+        "id": 11883892145,
+        "lat": 16.0274383,
+        "lon": 108.2552036,
+        "name": "Crown Plaza",
+        "role": "platform"
+      },
+      {
+        "id": 11883892146,
+        "lat": 16.014558,
+        "lon": 108.2612374,
+        "name": "Bãi tắm Sơn Thủy",
+        "role": "platform"
+      },
+      {
+        "id": 11883892147,
+        "lat": 16.0036737,
+        "lon": 108.2664532,
+        "name": "Xưởng đá Xuất Ánh - KOI Resort",
+        "role": "platform"
+      }
+    ]
+  },
+  {
+    "osm_id": 17587409,
+    "ref": "06",
+    "name": "Khu du lịch Non Nước - Sân bay Đà Nẵng",
+    "from": "Khu du lịch Non Nước",
+    "to": "Sân bay Đà Nẵng",
+    "operator": "Công ty Cổ phần Công nghiệp Quảng An 1",
+    "colour": "",
+    "charge": "8000 VND",
+    "interval": "00:45",
+    "stops_count": 16,
+    "stops": [
+      {
+        "id": 11883892155,
+        "lat": 16.0038003,
+        "lon": 108.2666309,
+        "name": "KOI Resort",
+        "role": "platform"
+      },
+      {
+        "id": 6976178442,
+        "lat": 16.0146219,
+        "lon": 108.2614154,
+        "name": "Bãi tắm Sơn Thủy",
+        "role": "platform"
+      },
+      {
+        "id": 11883892156,
+        "lat": 16.0275289,
+        "lon": 108.2554133,
+        "name": "Crown Plaza",
+        "role": "platform"
+      },
+      {
+        "id": 11883892157,
+        "lat": 16.0299049,
+        "lon": 108.2543325,
+        "name": "Olalani Resort",
+        "role": "platform"
+      },
+      {
+        "id": 11883892158,
+        "lat": 16.039664,
+        "lon": 108.2496143,
+        "name": "Resort Pullman",
+        "role": "platform"
+      },
+      {
+        "id": 6271153387,
+        "lat": 16.057951,
+        "lon": 108.2468908,
+        "name": "Đối diện DLG Hotel",
+        "role": "platform"
+      },
+      {
+        "id": 11900176976,
+        "lat": 16.0633486,
+        "lon": 108.2427237,
+        "name": "10 Võ Văn Kiệt",
+        "role": "platform"
+      },
+      {
+        "id": 11900176977,
+        "lat": 16.0623641,
+        "lon": 108.2390442,
+        "name": "Quán nhậu Bé Hằng",
+        "role": "platform"
+      },
+      {
+        "id": 6273427987,
+        "lat": 16.061475,
+        "lon": 108.2328775,
+        "name": "Cầu Rồng",
+        "role": "platform"
+      },
+      {
+        "id": 6273427988,
+        "lat": 16.0610433,
+        "lon": 108.2211042,
+        "name": "Đối diện 31 Nguyễn Văn Linh",
+        "role": "platform"
+      },
+      {
+        "id": 11881362051,
+        "lat": 16.060898,
+        "lon": 108.2178218,
+        "name": "Chùa Phước Ninh",
+        "role": "platform"
+      },
+      {
+        "id": 11900176978,
+        "lat": 16.0605672,
+        "lon": 108.2148689,
+        "name": "100 Nguyễn Văn Linh",
+        "role": "platform"
+      },
+      {
+        "id": 11900176979,
+        "lat": 16.0598391,
+        "lon": 108.209742,
+        "name": "248 Nguyễn Văn Linh",
+        "role": "platform"
+      },
+      {
+        "id": 9467560261,
+        "lat": 16.0592129,
+        "lon": 108.2072541,
+        "name": "336-338 Nguyễn Văn Linh",
+        "role": "platform"
+      },
+      {
+        "id": 11883892102,
+        "lat": 16.0568257,
+        "lon": 108.2028661,
+        "name": "Ga Quốc tế Đà Nẵng",
+        "role": "platform"
+      },
+      {
+        "id": 7030411286,
+        "lat": 16.052724,
+        "lon": 108.2033633,
+        "name": "Ga Quốc nội Đà Nẵng",
+        "role": "platform"
+      }
+    ]
+  },
+  {
+    "osm_id": 17587411,
+    "ref": "10",
+    "name": "Sân bay Đà Nẵng - Thọ Quang",
+    "from": "Sân bay Đà Nẵng",
+    "to": "Thọ Quang",
+    "operator": "Công ty Cổ phần Công nghiệp Quảng An 1",
+    "colour": "",
+    "charge": "8000 VND",
+    "interval": "00:45",
+    "stops_count": 22,
+    "stops": [
+      {
+        "id": 11883892127,
+        "lat": 16.0620878,
+        "lon": 108.2044442,
+        "name": "Cổng phụ Công viên 29/3",
+        "role": "platform"
+      },
+      {
+        "id": 6275708885,
+        "lat": 16.0647975,
+        "lon": 108.2031237,
+        "name": "Cầu đi bộ Công viên 29/3",
+        "role": "platform"
+      },
+      {
+        "id": 6273470985,
+        "lat": 16.0658755,
+        "lon": 108.2051924,
+        "name": "Công viên 29/3",
+        "role": "platform"
+      },
+      {
+        "id": 11900176980,
+        "lat": 16.0681459,
+        "lon": 108.205024,
+        "name": "461 Hải Phòng",
+        "role": "platform"
+      },
+      {
+        "id": 11900176981,
+        "lat": 16.0707963,
+        "lon": 108.2088834,
+        "name": "305 Hải Phòng",
+        "role": "platform"
+      },
+      {
+        "id": 11882946645,
+        "lat": 16.0712282,
+        "lon": 108.2109993,
+        "name": "231 Hải Phòng",
+        "role": "platform"
+      },
+      {
+        "id": 11900176982,
+        "lat": 16.0722589,
+        "lon": 108.2179139,
+        "name": "39 Hải Phòng",
+        "role": "platform"
+      },
+      {
+        "id": 11900176983,
+        "lat": 16.071722,
+        "lon": 108.218483,
+        "name": "102 Nguyễn Thị Minh Khai",
+        "role": "platform"
+      },
+      {
+        "id": 6270937385,
+        "lat": 16.0711512,
+        "lon": 108.219235,
+        "name": "Đại học Đà Nẵng",
+        "role": "platform"
+      },
+      {
+        "id": 11881093534,
+        "lat": 16.0715839,
+        "lon": 108.2229683,
+        "name": "Cầu Sông Hàn - 5 Lê Duẩn",
+        "role": "platform"
+      },
+      {
+        "id": 6270777385,
+        "lat": 16.0744094,
+        "lon": 108.2307627,
+        "name": "733 Ngô Quyền - Đối diện Trường Mầm non ABC",
+        "role": "platform"
+      },
+      {
+        "id": 11882946605,
+        "lat": 16.0781794,
+        "lon": 108.2326462,
+        "name": "575 Ngô Quyền",
+        "role": "platform"
+      },
+      {
+        "id": 11882946606,
+        "lat": 16.0806203,
+        "lon": 108.2350112,
+        "name": "461 Ngô Quyền",
+        "role": "platform"
+      },
+      {
+        "id": 11882946607,
+        "lat": 16.0832155,
+        "lon": 108.2375899,
+        "name": "Ngã tư Ngô Quyền - Vương Thừa Vũ",
+        "role": "platform"
+      },
+      {
+        "id": 11882946608,
+        "lat": 16.0856349,
+        "lon": 108.2361226,
+        "name": "Đối diện 32 Trần Thánh Tông",
+        "role": "platform"
+      },
+      {
+        "id": 4912280723,
+        "lat": 16.090665,
+        "lon": 108.2330283,
+        "name": "Khu chung cư Trần Thánh Tông",
+        "role": "platform"
+      },
+      {
+        "id": 11900176984,
+        "lat": 16.0907692,
+        "lon": 108.2383678,
+        "name": "95 Chu Huy Mân",
+        "role": "platform"
+      },
+      {
+        "id": 11900176985,
+        "lat": 16.0895363,
+        "lon": 108.2423973,
+        "name": "253 Ngô Quyền",
+        "role": "platform"
+      },
+      {
+        "id": 11900176986,
+        "lat": 16.0927245,
+        "lon": 108.2438429,
+        "name": "187 Ngô Quyền",
+        "role": "platform"
+      },
+      {
+        "id": 11900176987,
+        "lat": 16.0952673,
+        "lon": 108.2449382,
+        "name": "113 Ngô Quyền",
+        "role": "platform"
+      },
+      {
+        "id": 11900176988,
+        "lat": 16.1006128,
+        "lon": 108.2473437,
+        "name": "33 Ngô Quyền",
+        "role": "platform"
+      },
+      {
+        "id": 11900176989,
+        "lat": 16.1014137,
+        "lon": 108.2488578,
+        "name": "4 Nguyễn Phan Vinh",
+        "role": "platform"
+      }
+    ]
+  },
+  {
+    "osm_id": 17587412,
+    "ref": "10",
+    "name": "Thọ Quang - Sân bay Đà Nẵng",
+    "from": "Thọ Quang",
+    "to": "Sân bay Đà Nẵng",
+    "operator": "Công ty Cổ phần Công nghiệp Quảng An 1",
+    "colour": "",
+    "charge": "8000 VND",
+    "interval": "00:45",
+    "stops_count": 22,
+    "stops": [
+      {
+        "id": 11900176991,
+        "lat": 16.1016261,
+        "lon": 108.2486503,
+        "name": "Đối diện Giáo xứ Sơn Trà",
+        "role": "platform"
+      },
+      {
+        "id": 11900176992,
+        "lat": 16.1005799,
+        "lon": 108.2468751,
+        "name": "Đối diện 35 Ngô Quyền",
+        "role": "platform"
+      },
+      {
+        "id": 11900176993,
+        "lat": 16.0960458,
+        "lon": 108.2448957,
+        "name": "118 Ngô Quyền",
+        "role": "platform"
+      },
+      {
+        "id": 11900176994,
+        "lat": 16.0926811,
+        "lon": 108.2434116,
+        "name": "206 Ngô Quyền",
+        "role": "platform"
+      },
+      {
+        "id": 11900176995,
+        "lat": 16.0897328,
+        "lon": 108.2420556,
+        "name": "310 Ngô Quyền",
+        "role": "platform"
+      },
+      {
+        "id": 11900176996,
+        "lat": 16.0909033,
+        "lon": 108.2385275,
+        "name": "Chung cư Chu Huy Mân",
+        "role": "platform"
+      },
+      {
+        "id": 11900176997,
+        "lat": 16.0911439,
+        "lon": 108.2331792,
+        "name": "Đối diện Chung cư 12T1",
+        "role": "platform"
+      },
+      {
+        "id": 11882946574,
+        "lat": 16.0852928,
+        "lon": 108.2361109,
+        "name": "32 Trần Thánh Tông",
+        "role": "platform"
+      },
+      {
+        "id": 11882946575,
+        "lat": 16.0836226,
+        "lon": 108.2373801,
+        "name": "574 Ngô Quyền",
+        "role": "platform"
+      },
+      {
+        "id": 11882946576,
+        "lat": 16.0812522,
+        "lon": 108.2350882,
+        "name": "694 Ngô Quyền",
+        "role": "platform"
+      },
+      {
+        "id": 11882946577,
+        "lat": 16.0773265,
+        "lon": 108.2313804,
+        "name": "864 Ngô Quyền",
+        "role": "platform"
+      },
+      {
+        "id": 6270769686,
+        "lat": 16.0746222,
+        "lon": 108.2303924,
+        "name": "Trường Mầm non ABC",
+        "role": "platform"
+      },
+      {
+        "id": 11881093542,
+        "lat": 16.0716732,
+        "lon": 108.2222865,
+        "name": "14 Lê Duẩn",
+        "role": "platform"
+      },
+      {
+        "id": 6273711585,
+        "lat": 16.0713286,
+        "lon": 108.219844,
+        "name": "Đối diện Đại học Đà Nẵng",
+        "role": "platform"
+      },
+      {
+        "id": 11900176998,
+        "lat": 16.0714906,
+        "lon": 108.2186513,
+        "name": "89-91 Nguyễn Thị Minh Khai",
+        "role": "platform"
+      },
+      {
+        "id": 11900176999,
+        "lat": 16.072276,
+        "lon": 108.2171292,
+        "name": "140 Hải Phòng",
+        "role": "platform"
+      },
+      {
+        "id": 11882946613,
+        "lat": 16.0713549,
+        "lon": 108.2111907,
+        "name": "196 Hải Phòng",
+        "role": "platform"
+      },
+      {
+        "id": 11900177000,
+        "lat": 16.0709035,
+        "lon": 108.2089734,
+        "name": "212 Hải Phòng",
+        "role": "platform"
+      },
+      {
+        "id": 11900177001,
+        "lat": 16.0677579,
+        "lon": 108.2049001,
+        "name": "352 Hải Phòng",
+        "role": "platform"
+      },
+      {
+        "id": 4475252092,
+        "lat": 16.0660603,
+        "lon": 108.2038544,
+        "name": "Đối diện Công viên 29/3",
+        "role": "platform"
+      },
+      {
+        "id": 11883892099,
+        "lat": 16.0652424,
+        "lon": 108.2026479,
+        "name": "8 Nguyễn Tri Phương",
+        "role": "platform"
+      },
+      {
+        "id": 11883892100,
+        "lat": 16.0620161,
+        "lon": 108.2041879,
+        "name": "88 Nguyễn Tri Phương",
+        "role": "platform"
+      }
+    ]
+  },
+  {
+    "osm_id": 17591715,
+    "ref": "15",
+    "name": "Bến xe Trung tâm - Bến xe Phía Nam",
+    "from": "Bến xe Trung tâm",
+    "to": "Bến xe Phía Nam",
+    "operator": "Công ty Cổ phần Công nghiệp Quảng An 1",
+    "colour": "",
+    "charge": "8000 VND",
+    "interval": "00:45",
+    "stops_count": 13,
+    "stops": [
+      {
+        "id": 11886977650,
+        "lat": 16.0583474,
+        "lon": 108.173631,
+        "name": "171 Tôn Đức Thắng",
+        "role": "platform"
+      },
+      {
+        "id": 11891349388,
+        "lat": 16.0573285,
+        "lon": 108.1802324,
+        "name": "120 Trường Chinh",
+        "role": "platform"
+      },
+      {
+        "id": 11891349389,
+        "lat": 16.0514226,
+        "lon": 108.1821954,
+        "name": "314 Trường Chinh",
+        "role": "platform"
+      },
+      {
+        "id": 11891349390,
+        "lat": 16.0447377,
+        "lon": 108.1844248,
+        "name": "Đối diện cây xăng dầu số 375 Trường Chinh",
+        "role": "platform"
+      },
+      {
+        "id": 11891349391,
+        "lat": 16.0341195,
+        "lon": 108.1879534,
+        "name": "860 Trường Chinh",
+        "role": "platform"
+      },
+      {
+        "id": 11886983275,
+        "lat": 16.0272311,
+        "lon": 108.1902411,
+        "name": "1016 Trường Chinh",
+        "role": "platform"
+      },
+      {
+        "id": 11886983276,
+        "lat": 16.0217925,
+        "lon": 108.1932865,
+        "name": "1120 Trường Chinh",
+        "role": "platform"
+      },
+      {
+        "id": 11900103133,
+        "lat": 16.0045389,
+        "lon": 108.1907957,
+        "name": "Đối diện Trung tâm Giáo dục Thường xuyên Cẩm Lệ",
+        "role": "platform"
+      },
+      {
+        "id": 11900103134,
+        "lat": 15.9953514,
+        "lon": 108.1920304,
+        "name": "Tạp hóa Xuân Thu",
+        "role": "platform"
+      },
+      {
+        "id": 11894149725,
+        "lat": 15.9927697,
+        "lon": 108.1938003,
+        "name": "Đối diện Cây xăng Hòa Hiệp 2",
+        "role": "platform"
+      },
+      {
+        "id": 11894149726,
+        "lat": 15.9858436,
+        "lon": 108.2017217,
+        "name": "UBND Xã Hòa Châu",
+        "role": "platform"
+      },
+      {
+        "id": 11881377373,
+        "lat": 15.9768177,
+        "lon": 108.2082319,
+        "name": "Bưu điện Miếu Bông",
+        "role": "platform"
+      },
+      {
+        "id": 11881377374,
+        "lat": 15.9684735,
+        "lon": 108.2100412,
+        "name": "Công ty Isuzu",
+        "role": "platform"
+      }
+    ]
+  },
+  {
+    "osm_id": 17591716,
+    "ref": "15",
+    "name": "Bến xe Phía Nam - Bến xe Trung tâm",
+    "from": "Bến xe Phía Nam",
+    "to": "Bến xe Trung tâm",
+    "operator": "Công ty Cổ phần Công nghiệp Quảng An 1",
+    "colour": "",
+    "charge": "8000 VND",
+    "interval": "00:45",
+    "stops_count": 13,
+    "stops": [
+      {
+        "id": 11881377383,
+        "lat": 15.9672423,
+        "lon": 108.2108465,
+        "name": "Bến xe Phía Nam",
+        "role": "platform"
+      },
+      {
+        "id": 11894149729,
+        "lat": 15.9768496,
+        "lon": 108.2084351,
+        "name": "Bưu điện Miếu Bông",
+        "role": "platform"
+      },
+      {
+        "id": 11894149730,
+        "lat": 15.9814753,
+        "lon": 108.2070418,
+        "name": "Chùa Bảo Minh",
+        "role": "platform"
+      },
+      {
+        "id": 11894149731,
+        "lat": 15.9859938,
+        "lon": 108.2018932,
+        "name": "Đối diện UBND Xã Hòa Châu",
+        "role": "platform"
+      },
+      {
+        "id": 11894149732,
+        "lat": 15.9928979,
+        "lon": 108.1940029,
+        "name": "Cây xăng Hòa Hiệp 2",
+        "role": "platform"
+      },
+      {
+        "id": 11900103146,
+        "lat": 15.9960862,
+        "lon": 108.1920268,
+        "name": "Café Relax - Đối Diện Honda Thiện Hồng",
+        "role": "platform"
+      },
+      {
+        "id": 11900103147,
+        "lat": 16.0048928,
+        "lon": 108.1911877,
+        "name": "Trung tâm Giáo dục Thường xuyên Cẩm Lệ",
+        "role": "platform"
+      },
+      {
+        "id": 11886983282,
+        "lat": 16.0221429,
+        "lon": 108.1933904,
+        "name": "593 Trường Chinh",
+        "role": "platform"
+      },
+      {
+        "id": 11886983283,
+        "lat": 16.0269117,
+        "lon": 108.1906432,
+        "name": "555C Trường Chinh",
+        "role": "platform"
+      },
+      {
+        "id": 11891349406,
+        "lat": 16.0338343,
+        "lon": 108.1883021,
+        "name": "517 Trường Chinh",
+        "role": "platform"
+      },
+      {
+        "id": 11891349407,
+        "lat": 16.0446874,
+        "lon": 108.1846834,
+        "name": "Cây xăng dầu số 375 Trường Chinh",
+        "role": "platform"
+      },
+      {
+        "id": 11891349408,
+        "lat": 16.0574648,
+        "lon": 108.180416,
+        "name": "Trạm y tế Phường An Khê",
+        "role": "platform"
+      },
+      {
+        "id": 11886977635,
+        "lat": 16.0590601,
+        "lon": 108.1742896,
+        "name": "128 Tôn Đức Thắng",
+        "role": "platform"
+      }
+    ]
+  },
+  {
+    "osm_id": 17591718,
+    "ref": "16",
+    "name": "Kim Liên - Đại học Việt Hàn",
+    "from": "Kim Liên",
+    "to": "Đại học Việt Hàn",
+    "operator": "Công ty Cổ phần Công nghiệp Quảng An 1",
+    "colour": "",
+    "charge": "8000 VND",
+    "interval": "00:15-00:30",
+    "stops_count": 58,
+    "stops": [
+      {
+        "id": 11903085986,
+        "lat": 16.1355471,
+        "lon": 108.1195543,
+        "name": "Chùa Kim Quang",
+        "role": "platform"
+      },
+      {
+        "id": 11903085987,
+        "lat": 16.1330102,
+        "lon": 108.1194288,
+        "name": "101 Nguyễn Văn Cừ",
+        "role": "platform"
+      },
+      {
+        "id": 11903085988,
+        "lat": 16.1295631,
+        "lon": 108.1193146,
+        "name": "Công ty Xi măng Ngũ Hành Sơn",
+        "role": "platform"
+      },
+      {
+        "id": 11894149756,
+        "lat": 16.1241842,
+        "lon": 108.1207351,
+        "name": "19 Nguyễn Văn Cừ",
+        "role": "platform"
+      },
+      {
+        "id": 11894149757,
+        "lat": 16.1131085,
+        "lon": 108.1281964,
+        "name": "957 Nguyễn Lương Bằng",
+        "role": "platform"
+      },
+      {
+        "id": 11894149758,
+        "lat": 16.1110265,
+        "lon": 108.1294164,
+        "name": "915 Nguyễn Lương Bằng",
+        "role": "platform"
+      },
+      {
+        "id": 11894149759,
+        "lat": 16.1049853,
+        "lon": 108.1328356,
+        "name": "817 Nguyễn Lương Bằng",
+        "role": "platform"
+      },
+      {
+        "id": 11894149760,
+        "lat": 16.1005495,
+        "lon": 108.1349683,
+        "name": "767 Nguyễn Lương Bằng",
+        "role": "platform"
+      },
+      {
+        "id": 11894149761,
+        "lat": 16.0900459,
+        "lon": 108.1428227,
+        "name": "497 Nguyễn Lương Bằng",
+        "role": "platform"
+      },
+      {
+        "id": 11881093507,
+        "lat": 16.0864598,
+        "lon": 108.1442954,
+        "name": "421 Nguyễn Lương Bằng",
+        "role": "platform"
+      },
+      {
+        "id": 11881093508,
+        "lat": 16.0830776,
+        "lon": 108.1457202,
+        "name": "Cổng KCN Hòa Khánh",
+        "role": "platform"
+      },
+      {
+        "id": 11881093509,
+        "lat": 16.0795826,
+        "lon": 108.147096,
+        "name": "Bệnh viện Tâm thần Đà Nẵng",
+        "role": "platform"
+      },
+      {
+        "id": 11881093510,
+        "lat": 16.0763059,
+        "lon": 108.1484408,
+        "name": "Cao đẳng Kinh tế - Kế hoạch Đà Nẵng",
+        "role": "platform"
+      },
+      {
+        "id": 11881093512,
+        "lat": 16.0726662,
+        "lon": 108.1499258,
+        "name": "Trường Trung học cơ sở Nguyễn Lương Bằng",
+        "role": "platform"
+      },
+      {
+        "id": 11881093513,
+        "lat": 16.0714086,
+        "lon": 108.1504259,
+        "name": "755 Tôn Đức Thắng",
+        "role": "platform"
+      },
+      {
+        "id": 11891349458,
+        "lat": 16.0688044,
+        "lon": 108.1515296,
+        "name": "655 Tôn Đức Thắng",
+        "role": "platform"
+      },
+      {
+        "id": 11891349459,
+        "lat": 16.0661949,
+        "lon": 108.1536107,
+        "name": "573 Tôn Đức Thắng",
+        "role": "platform"
+      },
+      {
+        "id": 11886977659,
+        "lat": 16.0647741,
+        "lon": 108.1557328,
+        "name": "525 Tôn Đức Thắng",
+        "role": "platform"
+      },
+      {
+        "id": 11886977660,
+        "lat": 16.0625287,
+        "lon": 108.1591262,
+        "name": "Trường Đại học Sư phạm - Đại học Đà Nẵng",
+        "role": "platform"
+      },
+      {
+        "id": 11886977661,
+        "lat": 16.0599903,
+        "lon": 108.1629472,
+        "name": "Trường Hải Auto - 405 Tôn Đức Thắng",
+        "role": "platform"
+      },
+      {
+        "id": 11886977662,
+        "lat": 16.0572384,
+        "lon": 108.1665531,
+        "name": "Điện Máy Xanh - 341 Tôn Đức Thắng",
+        "role": "platform"
+      },
+      {
+        "id": 11886977650,
+        "lat": 16.0583474,
+        "lon": 108.173631,
+        "name": "171 Tôn Đức Thắng",
+        "role": "platform"
+      },
+      {
+        "id": 11886977651,
+        "lat": 16.0653437,
+        "lon": 108.1845316,
+        "name": "563 Điện Biên Phủ",
+        "role": "platform"
+      },
+      {
+        "id": 11886977653,
+        "lat": 16.0657051,
+        "lon": 108.1889999,
+        "name": "441 Điện Biên Phủ",
+        "role": "platform"
+      },
+      {
+        "id": 11886977652,
+        "lat": 16.0656834,
+        "lon": 108.1929047,
+        "name": "309 Điện Biên Phủ",
+        "role": "platform"
+      },
+      {
+        "id": 11886977654,
+        "lat": 16.0654606,
+        "lon": 108.1990089,
+        "name": "135 Điện Biên Phủ",
+        "role": "platform"
+      },
+      {
+        "id": 6273470985,
+        "lat": 16.0658755,
+        "lon": 108.2051924,
+        "name": "Công viên 29/3",
+        "role": "platform"
+      },
+      {
+        "id": 6273468887,
+        "lat": 16.0661735,
+        "lon": 108.2082265,
+        "name": "85 Lý Thái Tổ",
+        "role": "platform"
+      },
+      {
+        "id": 11903085990,
+        "lat": 16.0665733,
+        "lon": 108.2107008,
+        "name": "333 Hùng Vương",
+        "role": "platform"
+      },
+      {
+        "id": 11903085991,
+        "lat": 16.0671731,
+        "lon": 108.2144302,
+        "name": "Đối diện Chợ Cồn",
+        "role": "platform"
+      },
+      {
+        "id": 4830935021,
+        "lat": 16.0680003,
+        "lon": 108.2178454,
+        "name": "103 Hùng Vương",
+        "role": "platform"
+      },
+      {
+        "id": 4830934821,
+        "lat": 16.0685454,
+        "lon": 108.2218698,
+        "name": "Công viên Hùng Vương",
+        "role": "platform"
+      },
+      {
+        "id": 2988994145,
+        "lat": 16.0670258,
+        "lon": 108.22366,
+        "name": "Đối diện 155 Trần Phú",
+        "role": "platform"
+      },
+      {
+        "id": 5340748522,
+        "lat": 16.0620343,
+        "lon": 108.2231874,
+        "name": "270 Trần Phú",
+        "role": "platform"
+      },
+      {
+        "id": 11900103167,
+        "lat": 16.0612784,
+        "lon": 108.2336153,
+        "name": "Cầu Rồng",
+        "role": "platform"
+      },
+      {
+        "id": 6270793386,
+        "lat": 16.0581456,
+        "lon": 108.2351737,
+        "name": "Trung tâm Y tế Quận Sơn Trà",
+        "role": "platform"
+      },
+      {
+        "id": 6270793585,
+        "lat": 16.0543244,
+        "lon": 108.2363351,
+        "name": "1122 Ngô Quyền - Subaru Đà Nẵng",
+        "role": "platform"
+      },
+      {
+        "id": 11882946579,
+        "lat": 16.0524069,
+        "lon": 108.2369568,
+        "name": "34 Ngũ Hành Sơn",
+        "role": "platform"
+      },
+      {
+        "id": 5540465623,
+        "lat": 16.0477443,
+        "lon": 108.2383351,
+        "name": "180 Ngũ Hành Sơn",
+        "role": "platform"
+      },
+      {
+        "id": 4939774521,
+        "lat": 16.045448,
+        "lon": 108.2391324,
+        "name": "240 Ngũ Hành Sơn",
+        "role": "platform"
+      },
+      {
+        "id": 11882946580,
+        "lat": 16.0426979,
+        "lon": 108.2405,
+        "name": "312 Ngũ Hành Sơn",
+        "role": "platform"
+      },
+      {
+        "id": 4939774621,
+        "lat": 16.0403623,
+        "lon": 108.2417027,
+        "name": "370 Ngũ Hành Sơn",
+        "role": "platform"
+      },
+      {
+        "id": 11882946624,
+        "lat": 16.03666,
+        "lon": 108.2436625,
+        "name": "40 Lê Văn Hiến",
+        "role": "platform"
+      },
+      {
+        "id": 11882946625,
+        "lat": 16.0325449,
+        "lon": 108.2457424,
+        "name": "160 Lê Văn Hiến",
+        "role": "platform"
+      },
+      {
+        "id": 11882946626,
+        "lat": 16.0295853,
+        "lon": 108.2472413,
+        "name": "256 Lê Văn Hiến",
+        "role": "platform"
+      },
+      {
+        "id": 11363572147,
+        "lat": 16.0250571,
+        "lon": 108.2495258,
+        "name": "376 Lê Văn Hiến",
+        "role": "platform"
+      },
+      {
+        "id": 11882946627,
+        "lat": 16.0227558,
+        "lon": 108.2506904,
+        "name": "Bệnh viện Phụ sản nhi",
+        "role": "platform"
+      },
+      {
+        "id": 11903085992,
+        "lat": 16.0184673,
+        "lon": 108.2529101,
+        "name": "470A Lê Văn Hiến",
+        "role": "platform"
+      },
+      {
+        "id": 11903085993,
+        "lat": 16.010306,
+        "lon": 108.2568921,
+        "name": "542 Lê Văn Hiến",
+        "role": "platform"
+      },
+      {
+        "id": 11903085994,
+        "lat": 16.0070324,
+        "lon": 108.25859,
+        "name": "620 Lê Văn Hiến",
+        "role": "platform"
+      },
+      {
+        "id": 5274491023,
+        "lat": 16.0027873,
+        "lon": 108.2594371,
+        "name": "754 Lê Văn Hiến",
+        "role": "platform"
+      },
+      {
+        "id": 11363572613,
+        "lat": 15.9945635,
+        "lon": 108.258452,
+        "name": "Đối diện sân tập lái ô tô",
+        "role": "platform"
+      },
+      {
+        "id": 11903085996,
+        "lat": 15.9893687,
+        "lon": 108.2572581,
+        "name": "148 Trần Đại Nghĩa",
+        "role": "platform"
+      },
+      {
+        "id": 11363536979,
+        "lat": 15.9827049,
+        "lon": 108.2557869,
+        "name": "324 Trần Đại Nghĩa",
+        "role": "platform"
+      },
+      {
+        "id": 11891349397,
+        "lat": 15.9791998,
+        "lon": 108.25502,
+        "name": "384 Trần Đại Nghĩa",
+        "role": "platform"
+      },
+      {
+        "id": 11363576394,
+        "lat": 15.9780336,
+        "lon": 108.2465709,
+        "name": "Trường Đại học Kỹ thuật Y dược Đà Nẵng",
+        "role": "platform"
+      },
+      {
+        "id": 11903085997,
+        "lat": 15.9777663,
+        "lon": 108.252354,
+        "name": "Đại học Việt Hàn - Nam Kỳ Khởi Nghĩa",
+        "role": "platform"
+      },
+      {
+        "id": 11883892150,
+        "lat": 15.9762795,
+        "lon": 108.2545304,
+        "name": "438 Trần Đại Nghĩa",
+        "role": "platform"
+      }
+    ]
+  },
+  {
+    "osm_id": 17591719,
+    "ref": "16",
+    "name": "Đại học Việt Hàn - Kim Liên",
+    "from": "Đại học Việt Hàn",
+    "to": "Kim Liên",
+    "operator": "Công ty Cổ phần Công nghiệp Quảng An 1",
+    "colour": "",
+    "charge": "8000 VND",
+    "interval": "00:15-00:30",
+    "stops_count": 59,
+    "stops": [
+      {
+        "id": 11883892152,
+        "lat": 15.9757766,
+        "lon": 108.2549427,
+        "name": "271 Trần Đại Nghĩa",
+        "role": "platform"
+      },
+      {
+        "id": 11363576394,
+        "lat": 15.9780336,
+        "lon": 108.2465709,
+        "name": "Trường Đại học Kỹ thuật Y dược Đà Nẵng",
+        "role": "platform"
+      },
+      {
+        "id": 11903085997,
+        "lat": 15.9777663,
+        "lon": 108.252354,
+        "name": "Đại học Việt Hàn - Nam Kỳ Khởi Nghĩa",
+        "role": "platform"
+      },
+      {
+        "id": 11891349399,
+        "lat": 15.9790051,
+        "lon": 108.2553347,
+        "name": "239 Trần Đại Nghĩa",
+        "role": "platform"
+      },
+      {
+        "id": 11891349400,
+        "lat": 15.9820825,
+        "lon": 108.256005,
+        "name": "Ngã tư Trần Đại Nghĩa  - Võ Quý Huân",
+        "role": "platform"
+      },
+      {
+        "id": 11903086001,
+        "lat": 15.9943713,
+        "lon": 108.2588308,
+        "name": "Sân tập lái ô tô",
+        "role": "platform"
+      },
+      {
+        "id": 11903086002,
+        "lat": 15.9893835,
+        "lon": 108.2576571,
+        "name": "Nhà hàng Hương Tích",
+        "role": "platform"
+      },
+      {
+        "id": 5116306624,
+        "lat": 16.0029312,
+        "lon": 108.2598085,
+        "name": "Chùa Non Nước",
+        "role": "platform"
+      },
+      {
+        "id": 11903086003,
+        "lat": 16.0065194,
+        "lon": 108.2592048,
+        "name": "415 Lê Văn Hiến",
+        "role": "platform"
+      },
+      {
+        "id": 11903086004,
+        "lat": 16.0103303,
+        "lon": 108.257287,
+        "name": "307 Lê Văn Hiến",
+        "role": "platform"
+      },
+      {
+        "id": 11903086005,
+        "lat": 16.0168285,
+        "lon": 108.2541309,
+        "name": "Đối diện UBND Quận Ngũ Hành Sơn",
+        "role": "platform"
+      },
+      {
+        "id": 11882946628,
+        "lat": 16.0229164,
+        "lon": 108.2510106,
+        "name": "125 Lê Văn Hiến",
+        "role": "platform"
+      },
+      {
+        "id": 11882946629,
+        "lat": 16.025205,
+        "lon": 108.2498726,
+        "name": "Đối diện 380 Lê Văn Hiến",
+        "role": "platform"
+      },
+      {
+        "id": 11882946630,
+        "lat": 16.0293097,
+        "lon": 108.2477978,
+        "name": "Đối diện 270 Lê Văn Hiến",
+        "role": "platform"
+      },
+      {
+        "id": 11882946631,
+        "lat": 16.0337507,
+        "lon": 108.2455101,
+        "name": "61 Lê Văn Hiến",
+        "role": "platform"
+      },
+      {
+        "id": 11882946632,
+        "lat": 16.036352,
+        "lon": 108.2441869,
+        "name": "Đối diện 50 Lê Văn Hiến",
+        "role": "platform"
+      },
+      {
+        "id": 4939774522,
+        "lat": 16.0393594,
+        "lon": 108.2426384,
+        "name": "Đối diện UBND Phường Mỹ An",
+        "role": "platform"
+      },
+      {
+        "id": 11562713370,
+        "lat": 16.0428219,
+        "lon": 108.2409222,
+        "name": "141 Ngũ Hành Sơn - Công ty Công viên Cây xanh Đà Nẵng",
+        "role": "platform"
+      },
+      {
+        "id": 4939752422,
+        "lat": 16.0452637,
+        "lon": 108.2396807,
+        "name": "Trường Quân sự Quân khu 5",
+        "role": "platform"
+      },
+      {
+        "id": 5540465622,
+        "lat": 16.047932,
+        "lon": 108.238686,
+        "name": "Trường Đại học Kinh tế, Đại học Đà Nẵng",
+        "role": "platform"
+      },
+      {
+        "id": 5276547022,
+        "lat": 16.0518303,
+        "lon": 108.2375278,
+        "name": "29 Ngũ Hành Sơn",
+        "role": "platform"
+      },
+      {
+        "id": 11562713871,
+        "lat": 16.0566102,
+        "lon": 108.2360541,
+        "name": "1093 Ngô Quyền - Trung tâm Giáo dục thường xuyên số 1",
+        "role": "platform"
+      },
+      {
+        "id": 11562719669,
+        "lat": 16.0604622,
+        "lon": 108.234923,
+        "name": "1011 Ngô Quyền - Ngân hàng OCB",
+        "role": "platform"
+      },
+      {
+        "id": 6273427987,
+        "lat": 16.061475,
+        "lon": 108.2328775,
+        "name": "Cầu Rồng",
+        "role": "platform"
+      },
+      {
+        "id": 2987516133,
+        "lat": 16.0622041,
+        "lon": 108.2241829,
+        "name": "Đối diện 256 Bạch Đằng",
+        "role": "platform"
+      },
+      {
+        "id": 2987529134,
+        "lat": 16.0680649,
+        "lon": 108.2250231,
+        "name": "Đối diện Chợ Hàn",
+        "role": "platform"
+      },
+      {
+        "id": 5893704689,
+        "lat": 16.0685163,
+        "lon": 108.2197739,
+        "name": "Đối diện 59 Hùng Vương",
+        "role": "platform"
+      },
+      {
+        "id": 4914129721,
+        "lat": 16.0680094,
+        "lon": 108.2173656,
+        "name": "190 Hùng Vương",
+        "role": "platform"
+      },
+      {
+        "id": 4914129424,
+        "lat": 16.0674398,
+        "lon": 108.2146273,
+        "name": "Chợ Cồn",
+        "role": "platform"
+      },
+      {
+        "id": 11903086006,
+        "lat": 16.0665404,
+        "lon": 108.2099452,
+        "name": "14 Lý Thái Tổ",
+        "role": "platform"
+      },
+      {
+        "id": 4475252092,
+        "lat": 16.0660603,
+        "lon": 108.2038544,
+        "name": "Đối diện Công viên 29/3",
+        "role": "platform"
+      },
+      {
+        "id": 11886977632,
+        "lat": 16.0657987,
+        "lon": 108.1992579,
+        "name": "130 Điện Biện Phủ",
+        "role": "platform"
+      },
+      {
+        "id": 11886977633,
+        "lat": 16.0660023,
+        "lon": 108.1929368,
+        "name": "336 Điện Biên Phủ",
+        "role": "platform"
+      },
+      {
+        "id": 11555672069,
+        "lat": 16.0659991,
+        "lon": 108.1889939,
+        "name": "416 Điện Biên Phủ",
+        "role": "platform"
+      },
+      {
+        "id": 11886977634,
+        "lat": 16.0656837,
+        "lon": 108.1842728,
+        "name": "570 Điện Biên Phủ",
+        "role": "platform"
+      },
+      {
+        "id": 11886977635,
+        "lat": 16.0590601,
+        "lon": 108.1742896,
+        "name": "128 Tôn Đức Thắng",
+        "role": "platform"
+      },
+      {
+        "id": 11894149743,
+        "lat": 16.0569356,
+        "lon": 108.1713555,
+        "name": "210 Tôn Đức Thắng",
+        "role": "platform"
+      },
+      {
+        "id": 11894149744,
+        "lat": 16.0565137,
+        "lon": 108.1682083,
+        "name": "294 Tôn Đức Thắng",
+        "role": "platform"
+      },
+      {
+        "id": 11886983296,
+        "lat": 16.0581426,
+        "lon": 108.1659133,
+        "name": "Đối diện 399 Tôn Đức Thắng",
+        "role": "platform"
+      },
+      {
+        "id": 11886983297,
+        "lat": 16.0605108,
+        "lon": 108.1625748,
+        "name": "428 Tôn Đức Thắng",
+        "role": "platform"
+      },
+      {
+        "id": 11886983298,
+        "lat": 16.0629831,
+        "lon": 108.1588462,
+        "name": "552 Tôn Đức Thắng",
+        "role": "platform"
+      },
+      {
+        "id": 11886983299,
+        "lat": 16.064843,
+        "lon": 108.1561147,
+        "name": "650 Tôn Đức Thắng",
+        "role": "platform"
+      },
+      {
+        "id": 11891349420,
+        "lat": 16.0668128,
+        "lon": 108.1531392,
+        "name": "758 Tôn Đức Thắng",
+        "role": "platform"
+      },
+      {
+        "id": 11891349421,
+        "lat": 16.068541,
+        "lon": 108.1519034,
+        "name": "808-810 Tôn Đức Thắng",
+        "role": "platform"
+      },
+      {
+        "id": 11881093560,
+        "lat": 16.0712067,
+        "lon": 108.1507993,
+        "name": "900 Tôn Đức Thắng",
+        "role": "platform"
+      },
+      {
+        "id": 11881093561,
+        "lat": 16.0726985,
+        "lon": 108.1502009,
+        "name": "34 Nguyễn Lương Bằng",
+        "role": "platform"
+      },
+      {
+        "id": 11881093562,
+        "lat": 16.076882,
+        "lon": 108.1484689,
+        "name": "Bưu điện Hòa Khánh",
+        "role": "platform"
+      },
+      {
+        "id": 11881093563,
+        "lat": 16.0807158,
+        "lon": 108.1469073,
+        "name": "234 Nguyễn Lương Bằng",
+        "role": "platform"
+      },
+      {
+        "id": 11881093564,
+        "lat": 16.0830648,
+        "lon": 108.1459428,
+        "name": "Cổng KCN Hòa Khánh",
+        "role": "platform"
+      },
+      {
+        "id": 11881093565,
+        "lat": 16.0864064,
+        "lon": 108.1445562,
+        "name": "380 Nguyễn Lương Bằng",
+        "role": "platform"
+      },
+      {
+        "id": 11894149745,
+        "lat": 16.0903003,
+        "lon": 108.1429411,
+        "name": "436 Nguyễn Lương Bằng",
+        "role": "platform"
+      },
+      {
+        "id": 11894149746,
+        "lat": 16.1002593,
+        "lon": 108.1353757,
+        "name": "546 Nguyễn Lương Bằng",
+        "role": "platform"
+      },
+      {
+        "id": 11894149747,
+        "lat": 16.1053072,
+        "lon": 108.1329185,
+        "name": "636 Nguyễn Lương Bằng",
+        "role": "platform"
+      },
+      {
+        "id": 11894149748,
+        "lat": 16.110849,
+        "lon": 108.1296927,
+        "name": "788 Nguyễn Lương Bằng",
+        "role": "platform"
+      },
+      {
+        "id": 11894149749,
+        "lat": 16.1150991,
+        "lon": 108.1267945,
+        "name": "922 Nguyễn Lương Bằng",
+        "role": "platform"
+      },
+      {
+        "id": 11894149750,
+        "lat": 16.125583,
+        "lon": 108.1200598,
+        "name": "52 Nguyễn Văn Cừ",
+        "role": "platform"
+      },
+      {
+        "id": 11903086008,
+        "lat": 16.129278,
+        "lon": 108.11952,
+        "name": "126 Nguyễn Văn Cừ",
+        "role": "platform"
+      },
+      {
+        "id": 11903086009,
+        "lat": 16.1329095,
+        "lon": 108.1196549,
+        "name": "230 Nguyễn Văn Cừ",
+        "role": "platform"
+      },
+      {
+        "id": 11903086010,
+        "lat": 16.1355493,
+        "lon": 108.119799,
+        "name": "274 Nguyễn Văn Cừ",
+        "role": "platform"
+      }
+    ]
+  },
+  {
+    "osm_id": 17591721,
+    "ref": "17",
+    "name": "Cảng Sông Hàn - Hòa Khương",
+    "from": "Cảng Sông Hàn",
+    "to": "Hòa Khương",
+    "operator": "Công ty Cổ phần Công nghiệp Quảng An 1",
+    "colour": "",
+    "charge": "8000 VND",
+    "interval": "00:15-00:30",
+    "stops_count": 35,
+    "stops": [
+      {
+        "id": 11881362046,
+        "lat": 16.0758341,
+        "lon": 108.2233549,
+        "name": "Đối diện sân tennis đường Bạch Đằng",
+        "role": "platform"
+      },
+      {
+        "id": 11881362047,
+        "lat": 16.0751475,
+        "lon": 108.2214661,
+        "name": "28 Quang Trung",
+        "role": "platform"
+      },
+      {
+        "id": 11881093543,
+        "lat": 16.0740693,
+        "lon": 108.216007,
+        "name": "Trường Trung học cơ sở Nguyễn Huệ",
+        "role": "platform"
+      },
+      {
+        "id": 11903086014,
+        "lat": 16.0730841,
+        "lon": 108.2135027,
+        "name": "Đối diện 297-299 Đống Đa",
+        "role": "platform"
+      },
+      {
+        "id": 11903086015,
+        "lat": 16.0659439,
+        "lon": 108.2143002,
+        "name": "438-440 Ông Ích Khiêm",
+        "role": "platform"
+      },
+      {
+        "id": 11903086016,
+        "lat": 16.063921,
+        "lon": 108.2152562,
+        "name": "522 Ông Ích Khiêm",
+        "role": "platform"
+      },
+      {
+        "id": 11903086017,
+        "lat": 16.0612627,
+        "lon": 108.2165507,
+        "name": "618 Ông Ích Khiêm",
+        "role": "platform"
+      },
+      {
+        "id": 11881362052,
+        "lat": 16.0582001,
+        "lon": 108.2170369,
+        "name": "310 Hoàng Diệu",
+        "role": "platform"
+      },
+      {
+        "id": 11881362053,
+        "lat": 16.0533059,
+        "lon": 108.2186547,
+        "name": "233 Trưng Nữ Vương",
+        "role": "platform"
+      },
+      {
+        "id": 11881362054,
+        "lat": 16.0528905,
+        "lon": 108.2202706,
+        "name": "60 Núi Thành",
+        "role": "platform"
+      },
+      {
+        "id": 11881362055,
+        "lat": 16.0477057,
+        "lon": 108.2208365,
+        "name": "Đối diện 161 Núi Thành (Đối diện Trường Trung học cơ sở Tây Sơn)",
+        "role": "platform"
+      },
+      {
+        "id": 11903086018,
+        "lat": 16.0430836,
+        "lon": 108.2214454,
+        "name": "264 Núi Thành",
+        "role": "platform"
+      },
+      {
+        "id": 11903086019,
+        "lat": 16.0391703,
+        "lon": 108.2218775,
+        "name": "382 Núi Thành",
+        "role": "platform"
+      },
+      {
+        "id": 11903086020,
+        "lat": 16.0339225,
+        "lon": 108.2225518,
+        "name": "Chùa Hòa Tiên",
+        "role": "platform"
+      },
+      {
+        "id": 2634883858,
+        "lat": 16.0312621,
+        "lon": 108.2227497,
+        "name": "582 Núi Thành",
+        "role": "platform"
+      },
+      {
+        "id": 11881362059,
+        "lat": 16.0258161,
+        "lon": 108.2199099,
+        "name": "Đối diện Siêu thị Mega Market Đà Nẵng",
+        "role": "platform"
+      },
+      {
+        "id": 11881362060,
+        "lat": 16.022998,
+        "lon": 108.2147092,
+        "name": "52-54 Cách Mạng Tháng 8 (Gần Bệnh viện Tâm Trí Đà Nẵng)",
+        "role": "platform"
+      },
+      {
+        "id": 11903086021,
+        "lat": 16.0196155,
+        "lon": 108.2097798,
+        "name": "180 Cách Mạng Tháng 8",
+        "role": "platform"
+      },
+      {
+        "id": 11900103128,
+        "lat": 16.0167982,
+        "lon": 108.2036964,
+        "name": "296 Cách Mạng Tháng 8",
+        "role": "platform"
+      },
+      {
+        "id": 11903086022,
+        "lat": 16.0140485,
+        "lon": 108.1970919,
+        "name": "496 Cách Mạng Tháng 8",
+        "role": "platform"
+      },
+      {
+        "id": 11903086023,
+        "lat": 16.0123222,
+        "lon": 108.1878436,
+        "name": "Đối diện 9 Trường Sơn",
+        "role": "platform"
+      },
+      {
+        "id": 11903086024,
+        "lat": 16.0120294,
+        "lon": 108.1741191,
+        "name": "172 Trường Sơn",
+        "role": "platform"
+      },
+      {
+        "id": 11903086025,
+        "lat": 16.011805,
+        "lon": 108.1692518,
+        "name": "Đối diện Trường Quân sự Quân khu 5",
+        "role": "platform"
+      },
+      {
+        "id": 11903086026,
+        "lat": 16.0106571,
+        "lon": 108.1632337,
+        "name": "322 Trường Sơn",
+        "role": "platform"
+      },
+      {
+        "id": 11903086027,
+        "lat": 16.0088394,
+        "lon": 108.151726,
+        "name": "Bệnh viện Hòa Vang",
+        "role": "platform"
+      },
+      {
+        "id": 11903086028,
+        "lat": 15.9998573,
+        "lon": 108.1432169,
+        "name": "Trụ CS24",
+        "role": "platform"
+      },
+      {
+        "id": 11903086029,
+        "lat": 15.9961029,
+        "lon": 108.1367048,
+        "name": "Đối diện Cửa hàng Thiên Thanh Trường",
+        "role": "platform"
+      },
+      {
+        "id": 11903086030,
+        "lat": 15.9915765,
+        "lon": 108.1379457,
+        "name": "Gần Chợ Túy Loan",
+        "role": "platform"
+      },
+      {
+        "id": 11903086031,
+        "lat": 15.9907487,
+        "lon": 108.140483,
+        "name": "Lô 115 Chợ Túy Loan",
+        "role": "platform"
+      },
+      {
+        "id": 11903086032,
+        "lat": 15.9877264,
+        "lon": 108.1408121,
+        "name": "Trung tâm Hành chính Huyện Hòa Vang",
+        "role": "platform"
+      },
+      {
+        "id": 11903086033,
+        "lat": 15.981564,
+        "lon": 108.1385819,
+        "name": "Đối diện Bảng hiệu CT01",
+        "role": "platform"
+      },
+      {
+        "id": 11903086034,
+        "lat": 15.9752553,
+        "lon": 108.1393735,
+        "name": "Đối diện trụ CS84",
+        "role": "platform"
+      },
+      {
+        "id": 11903086035,
+        "lat": 15.9694825,
+        "lon": 108.1392923,
+        "name": "Trường Tiểu học Hòa Khương",
+        "role": "platform"
+      },
+      {
+        "id": 11903086036,
+        "lat": 15.9625002,
+        "lon": 108.1392764,
+        "name": "Đối diện trụ CS119",
+        "role": "platform"
+      },
+      {
+        "id": 11903086037,
+        "lat": 15.9432407,
+        "lon": 108.137869,
+        "name": "Kề Cây xăng số 5",
+        "role": "platform"
+      }
+    ]
+  },
+  {
+    "osm_id": 17591722,
+    "ref": "17",
+    "name": "Hòa Khương - Cảng Sông Hàn",
+    "from": "Hòa Khương",
+    "to": "Cảng Sông Hàn",
+    "operator": "Công ty Cổ phần Công nghiệp Quảng An 1",
+    "colour": "",
+    "charge": "8000 VND",
+    "interval": "00:15-00:30",
+    "stops_count": 36,
+    "stops": [
+      {
+        "id": 11903086039,
+        "lat": 15.943037,
+        "lon": 108.1380832,
+        "name": "Đối diện Cây xăng số 5",
+        "role": "platform"
+      },
+      {
+        "id": 11903086040,
+        "lat": 15.9607509,
+        "lon": 108.1394462,
+        "name": "Trường Trung học cơ sở Đỗ Thúc Tịnh",
+        "role": "platform"
+      },
+      {
+        "id": 11903086041,
+        "lat": 15.9700993,
+        "lon": 108.1394913,
+        "name": "Kề trụ CS98",
+        "role": "platform"
+      },
+      {
+        "id": 11903086042,
+        "lat": 15.9756204,
+        "lon": 108.139534,
+        "name": "Kề trụ CS84",
+        "role": "platform"
+      },
+      {
+        "id": 11903086043,
+        "lat": 15.981945,
+        "lon": 108.1386649,
+        "name": "Kề Bảng hiệu CT01",
+        "role": "platform"
+      },
+      {
+        "id": 11903086044,
+        "lat": 15.9876084,
+        "lon": 108.1408862,
+        "name": "Trung tâm Hành chính Huyện Hòa Vang",
+        "role": "platform"
+      },
+      {
+        "id": 11903086045,
+        "lat": 15.9908331,
+        "lon": 108.1405547,
+        "name": "Đối diện Chợ Túy Loan",
+        "role": "platform"
+      },
+      {
+        "id": 11903086046,
+        "lat": 15.9917005,
+        "lon": 108.1378858,
+        "name": "Gần Chợ Túy Loan",
+        "role": "platform"
+      },
+      {
+        "id": 11903086047,
+        "lat": 15.9957889,
+        "lon": 108.136756,
+        "name": "Cửa hàng Thiên Thanh Trường",
+        "role": "platform"
+      },
+      {
+        "id": 11903086048,
+        "lat": 15.9997639,
+        "lon": 108.1436236,
+        "name": "Đối diện Cây xăng Vạn Phú",
+        "role": "platform"
+      },
+      {
+        "id": 6881848885,
+        "lat": 16.0086358,
+        "lon": 108.1518143,
+        "name": "Đối diện Bệnh viện Hòa Vang",
+        "role": "platform"
+      },
+      {
+        "id": 11903086049,
+        "lat": 16.010478,
+        "lon": 108.1633646,
+        "name": "399 Trường Sơn",
+        "role": "platform"
+      },
+      {
+        "id": 11903086050,
+        "lat": 16.0116292,
+        "lon": 108.1689038,
+        "name": "Trường Quân sự Quân khu 5",
+        "role": "platform"
+      },
+      {
+        "id": 11903086051,
+        "lat": 16.0118275,
+        "lon": 108.1742581,
+        "name": "259 Trường Sơn",
+        "role": "platform"
+      },
+      {
+        "id": 11903086052,
+        "lat": 16.0120104,
+        "lon": 108.1878412,
+        "name": "9 Trường Sơn",
+        "role": "platform"
+      },
+      {
+        "id": 11903086053,
+        "lat": 16.0137548,
+        "lon": 108.1979153,
+        "name": "419 Cách Mạng Tháng 8",
+        "role": "platform"
+      },
+      {
+        "id": 11900103152,
+        "lat": 16.0165349,
+        "lon": 108.2036934,
+        "name": "307 Cách Mạng Tháng 8",
+        "role": "platform"
+      },
+      {
+        "id": 11903086054,
+        "lat": 16.0193649,
+        "lon": 108.2098152,
+        "name": "151 Cách Mạng Tháng 8",
+        "role": "platform"
+      },
+      {
+        "id": 11881377396,
+        "lat": 16.0227285,
+        "lon": 108.214682,
+        "name": "23-25 Cách Mạng Tháng 8 (Đối diện Bệnh viện Tâm Trí Đà Nẵng)",
+        "role": "platform"
+      },
+      {
+        "id": 11881377397,
+        "lat": 16.0255414,
+        "lon": 108.2199075,
+        "name": "Siêu thị Mega Market Đà Nẵng",
+        "role": "platform"
+      },
+      {
+        "id": 2634883859,
+        "lat": 16.0312149,
+        "lon": 108.2228342,
+        "name": "567 Núi Thành",
+        "role": "platform"
+      },
+      {
+        "id": 11903086055,
+        "lat": 16.0340931,
+        "lon": 108.2226871,
+        "name": "499 Núi Thành",
+        "role": "platform"
+      },
+      {
+        "id": 11903086056,
+        "lat": 16.0394077,
+        "lon": 108.2219836,
+        "name": "Đối diện 374 Núi Thành",
+        "role": "platform"
+      },
+      {
+        "id": 11903086057,
+        "lat": 16.0438453,
+        "lon": 108.221507,
+        "name": "257 Núi Thành",
+        "role": "platform"
+      },
+      {
+        "id": 11881377401,
+        "lat": 16.0480761,
+        "lon": 108.2209665,
+        "name": "149 Núi Thành (Trường Trung học cơ sở Tây Sơn)",
+        "role": "platform"
+      },
+      {
+        "id": 11881377402,
+        "lat": 16.0531225,
+        "lon": 108.2203645,
+        "name": "21 Núi Thành",
+        "role": "platform"
+      },
+      {
+        "id": 11881377403,
+        "lat": 16.0529812,
+        "lon": 108.2181405,
+        "name": "298 Trưng Nữ Vương",
+        "role": "platform"
+      },
+      {
+        "id": 11881377404,
+        "lat": 16.0565346,
+        "lon": 108.217175,
+        "name": "315 Hoàng Diệu",
+        "role": "platform"
+      },
+      {
+        "id": 11881377405,
+        "lat": 16.0598075,
+        "lon": 108.2170859,
+        "name": "UBND Phường Nam Dương",
+        "role": "platform"
+      },
+      {
+        "id": 11903086058,
+        "lat": 16.0629623,
+        "lon": 108.2158368,
+        "name": "419 Ông Ích Khiêm",
+        "role": "platform"
+      },
+      {
+        "id": 11903086059,
+        "lat": 16.0661695,
+        "lon": 108.2143661,
+        "name": "297 Ông Ích Khiêm",
+        "role": "platform"
+      },
+      {
+        "id": 11903086060,
+        "lat": 16.0678363,
+        "lon": 108.2140103,
+        "name": "Đối diện 328 Ông Ích Khiêm",
+        "role": "platform"
+      },
+      {
+        "id": 11903086061,
+        "lat": 16.0729669,
+        "lon": 108.2136234,
+        "name": "297-299 Đống Đa",
+        "role": "platform"
+      },
+      {
+        "id": 11881093532,
+        "lat": 16.0741076,
+        "lon": 108.2169258,
+        "name": "Bệnh viện Chỉnh hình và Phục hồi Chức năng Đà Nẵng",
+        "role": "platform"
+      },
+      {
+        "id": 11881377409,
+        "lat": 16.0751518,
+        "lon": 108.2220984,
+        "name": "15 Quang Trung",
+        "role": "platform"
+      },
+      {
+        "id": 6270906592,
+        "lat": 16.0763213,
+        "lon": 108.2242469,
+        "name": "Trung tâm hành chính Thành phố Đà Nẵng",
+        "role": "platform"
+      }
+    ]
+  }
+]

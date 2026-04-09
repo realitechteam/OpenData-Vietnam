@@ -1,0 +1,11 @@
+# Raw OSM files (keep processed only)
+*_osm.json
+*_osm_tags.json
+*_osm_body.json
+
+# OS files
+.DS_Store
+
+# Claude settings
+.claude/
+Charging_Stations/ev_stations_osm_detailed.json

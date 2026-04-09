@@ -1,0 +1,104 @@
+{
+  "datasets": [
+    {
+      "file": ".claude/settings.local.json",
+      "records": 1,
+      "size_kb": 4.1
+    },
+    {
+      "file": "AirQuality/aqi_stations_vietnam.json",
+      "records": 18,
+      "size_kb": 2.4
+    },
+    {
+      "file": "Bus_HN/routes_hn.json",
+      "records": 128,
+      "size_kb": 5.9
+    },
+    {
+      "file": "Bus_HN/routes_hn_processed.json",
+      "records": 371,
+      "size_kb": 2413.2
+    },
+    {
+      "file": "POI/atm_banks_processed.json",
+      "records": 8964,
+      "size_kb": 3223.1
+    },
+    {
+      "file": "POI/fuel_stations_processed.json",
+      "records": 8400,
+      "size_kb": 2569.6
+    },
+    {
+      "file": "POI/hospitals_processed.json",
+      "records": 4702,
+      "size_kb": 1942.3
+    },
+    {
+      "file": "POI/markets_processed.json",
+      "records": 5116,
+      "size_kb": 1498.2
+    },
+    {
+      "file": "POI/parking_processed.json",
+      "records": 6788,
+      "size_kb": 1801.2
+    },
+    {
+      "file": "POI/pharmacies_processed.json",
+      "records": 4078,
+      "size_kb": 1489.3
+    },
+    {
+      "file": "POI/public_services_processed.json",
+      "records": 2763,
+      "size_kb": 965.4
+    },
+    {
+      "file": "POI/schools_processed.json",
+      "records": 18964,
+      "size_kb": 7399.8
+    },
+    {
+      "file": "POI/tourism_processed.json",
+      "records": 6464,
+      "size_kb": 2113.1
+    },
+    {
+      "file": "Administrative/districts.json",
+      "records": 705,
+      "size_kb": 218.3
+    },
+    {
+      "file": "Administrative/provinces.json",
+      "records": 63,
+      "size_kb": 10.6
+    },
+    {
+      "file": "Administrative/wards.json",
+      "records": 10599,
+      "size_kb": 3605.1
+    },
+    {
+      "file": "Charging_Stations/ev_stations_processed.json",
+      "records": 496,
+      "size_kb": 156.1
+    },
+    {
+      "file": "Bus_HCM/route_info_hcm.json",
+      "records": 129,
+      "size_kb": 147.3
+    },
+    {
+      "file": "Bus_HCM/routes_hcm.json",
+      "records": 129,
+      "size_kb": 120.3
+    },
+    {
+      "file": "Bus_HCM/stations_hcm.json",
+      "records": 10459,
+      "size_kb": 4674.5
+    }
+  ]
+}

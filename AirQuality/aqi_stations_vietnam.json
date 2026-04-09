@@ -1,0 +1,128 @@
+[
+  {
+    "name": "US Embassy Hanoi",
+    "lat": 21.0216,
+    "lon": 105.8194,
+    "source": "US Embassy",
+    "city": "Hà Nội"
+  },
+  {
+    "name": "US Consulate Ho Chi Minh",
+    "lat": 10.7831,
+    "lon": 106.7,
+    "source": "US Consulate",
+    "city": "TP. Hồ Chí Minh"
+  },
+  {
+    "name": "Trạm An Phú, Quận 2",
+    "lat": 10.7935,
+    "lon": 106.7415,
+    "source": "VN EPA",
+    "city": "TP. Hồ Chí Minh"
+  },
+  {
+    "name": "Đại sứ quán Pháp Hà Nội",
+    "lat": 21.036,
+    "lon": 105.849,
+    "source": "French Embassy",
+    "city": "Hà Nội"
+  },
+  {
+    "name": "Trung tâm Quan trắc MT Đà Nẵng",
+    "lat": 16.0544,
+    "lon": 108.2022,
+    "source": "VN EPA",
+    "city": "Đà Nẵng"
+  },
+  {
+    "name": "Kim Liên, Hà Nội",
+    "lat": 21.0108,
+    "lon": 105.8425,
+    "source": "VN EPA",
+    "city": "Hà Nội"
+  },
+  {
+    "name": "Minh Khai, Hà Nội",
+    "lat": 21.0023,
+    "lon": 105.872,
+    "source": "VN EPA",
+    "city": "Hà Nội"
+  },
+  {
+    "name": "Phạm Văn Đồng, Hà Nội",
+    "lat": 21.045,
+    "lon": 105.802,
+    "source": "VN EPA",
+    "city": "Hà Nội"
+  },
+  {
+    "name": "Tân Sơn Nhất, HCM",
+    "lat": 10.8188,
+    "lon": 106.6588,
+    "source": "VN EPA",
+    "city": "TP. Hồ Chí Minh"
+  },
+  {
+    "name": "Nguyễn Văn Cừ, HCM",
+    "lat": 10.7505,
+    "lon": 106.6907,
+    "source": "VN EPA",
+    "city": "TP. Hồ Chí Minh"
+  },
+  {
+    "name": "Hải Phòng",
+    "lat": 20.8449,
+    "lon": 106.6881,
+    "source": "VN EPA",
+    "city": "Hải Phòng"
+  },
+  {
+    "name": "Huế",
+    "lat": 16.4637,
+    "lon": 107.5909,
+    "source": "VN EPA",
+    "city": "Huế"
+  },
+  {
+    "name": "Nha Trang",
+    "lat": 12.2388,
+    "lon": 109.1967,
+    "source": "VN EPA",
+    "city": "Nha Trang"
+  },
+  {
+    "name": "Cần Thơ",
+    "lat": 10.0452,
+    "lon": 105.7469,
+    "source": "VN EPA",
+    "city": "Cần Thơ"
+  },
+  {
+    "name": "Thái Nguyên",
+    "lat": 21.5928,
+    "lon": 105.8442,
+    "source": "VN EPA",
+    "city": "Thái Nguyên"
+  },
+  {
+    "name": "Việt Trì",
+    "lat": 21.3097,
+    "lon": 105.4014,
+    "source": "VN EPA",
+    "city": "Việt Trì"
+  },
+  {
+    "name": "Quảng Ninh",
+    "lat": 20.959,
+    "lon": 107.0458,
+    "source": "VN EPA",
+    "city": "Quảng Ninh"
+  },
+  {
+    "name": "Bắc Ninh",
+    "lat": 21.186,
+    "lon": 106.076,
+    "source": "VN EPA",
+    "city": "Bắc Ninh"
+  }
+]
